@@ -1,5 +1,3 @@
-#!/bin/python3
-
 import json
 import os
 import re
@@ -14,10 +12,8 @@ load_dotenv()
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
-if __name__ == "__main__":
-    with open("service_account.json") as f:
-        f.write(os.getenv("SERVICE_ACCOUNT"))  # type: ignore
 
+if __name__ == "__main__":
     gc = gspread.service_account()
 
     sheet = gc.open_by_url(

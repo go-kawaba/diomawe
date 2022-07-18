@@ -1,0 +1,965 @@
+{
+  "baja": {
+    "pa": {
+      "Word": "pa",
+      "Definition": "life, alive, living; to live",
+      "Example": "da ne pa - I am alive",
+      "See Also": ""
+    },
+    "ta": {
+      "Word": "ta",
+      "Definition": "death, dead, dying; to die",
+      "Example": "",
+      "See Also": ""
+    },
+    "ka": {
+      "Word": "ka",
+      "Definition": "kind, variety, catagory; to be a kind of",
+      "Example": "",
+      "See Also": ""
+    },
+    "ba": {
+      "Word": "ba",
+      "Definition": "part, piece, section; to be a part of",
+      "Example": "",
+      "See Also": ""
+    },
+    "da": {
+      "Word": "da",
+      "Definition": "me, we; to be myself",
+      "Example": "",
+      "See Also": ""
+    },
+    "ga": {
+      "Word": "ga",
+      "Definition": "you; to be yourself",
+      "Example": "",
+      "See Also": ""
+    },
+    "fa": {
+      "Word": "fa",
+      "Definition": "someone else, he, she, they",
+      "Example": "",
+      "See Also": ""
+    },
+    "sa": {
+      "Word": "sa",
+      "Definition": "person, human being, sentient entity; to be human",
+      "Example": "",
+      "See Also": ""
+    },
+    "ca": {
+      "Word": "ca",
+      "Definition": "thing, matter, object; to be a thing",
+      "Example": "",
+      "See Also": ""
+    },
+    "la": {
+      "Word": "la",
+      "Definition": "body, form, physical state; to be a body",
+      "Example": "",
+      "See Also": ""
+    },
+    "ja": {
+      "Word": "ja",
+      "Definition": "word; to be a word",
+      "Example": "",
+      "See Also": ""
+    },
+    "wa": {
+      "Word": "wa",
+      "Definition": "speaking, communication; to talk (in), to say (t)",
+      "Example": "",
+      "See Also": ""
+    },
+    "ha": {
+      "Word": "ha",
+      "Definition": "truth, true; to be true",
+      "Example": "",
+      "See Also": ""
+    },
+    "ma": {
+      "Word": "ma",
+      "Definition": "way, like; to be like",
+      "Example": "",
+      "See Also": ""
+    },
+    "na": {
+      "Word": "na",
+      "Definition": "(context marker)",
+      "Example": "",
+      "See Also": ""
+    },
+    "a": {
+      "Word": "a",
+      "Definition": "for",
+      "Example": "",
+      "See Also": ""
+    },
+    "pe": {
+      "Word": "pe",
+      "Definition": "good",
+      "Example": "",
+      "See Also": ""
+    },
+    "te": {
+      "Word": "te",
+      "Definition": "bad",
+      "Example": "",
+      "See Also": ""
+    },
+    "ke": {
+      "Word": "ke",
+      "Definition": "big",
+      "Example": "",
+      "See Also": ""
+    },
+    "be": {
+      "Word": "be",
+      "Definition": "small",
+      "Example": "",
+      "See Also": ""
+    },
+    "de": {
+      "Word": "de",
+      "Definition": "none",
+      "Example": "",
+      "See Also": ""
+    },
+    "ge": {
+      "Word": "ge",
+      "Definition": "few",
+      "Example": "",
+      "See Also": ""
+    },
+    "fe": {
+      "Word": "fe",
+      "Definition": "some",
+      "Example": "",
+      "See Also": ""
+    },
+    "se": {
+      "Word": "se",
+      "Definition": "many",
+      "Example": "",
+      "See Also": ""
+    },
+    "ce": {
+      "Word": "ce",
+      "Definition": "all",
+      "Example": "",
+      "See Also": ""
+    },
+    "le": {
+      "Word": "le",
+      "Definition": "what",
+      "Example": "",
+      "See Also": ""
+    },
+    "je": {
+      "Word": "je",
+      "Definition": "this",
+      "Example": "",
+      "See Also": ""
+    },
+    "we": {
+      "Word": "we",
+      "Definition": "the same, similar",
+      "Example": "",
+      "See Also": ""
+    },
+    "he": {
+      "Word": "he",
+      "Definition": "another, different, other",
+      "Example": "",
+      "See Also": ""
+    },
+    "me": {
+      "Word": "me",
+      "Definition": "compared to",
+      "Example": "",
+      "See Also": ""
+    },
+    "ne": {
+      "Word": "ne",
+      "Definition": "(subject marker)",
+      "Example": "",
+      "See Also": ""
+    },
+    "e": {
+      "Word": "e",
+      "Definition": "and",
+      "Example": "",
+      "See Also": ""
+    },
+    "pi": {
+      "Word": "pi",
+      "Definition": "do",
+      "Example": "",
+      "See Also": ""
+    },
+    "ti": {
+      "Word": "ti",
+      "Definition": "happen",
+      "Example": "",
+      "See Also": ""
+    },
+    "ki": {
+      "Word": "ki",
+      "Definition": "movement, travel, go, move",
+      "Example": "",
+      "See Also": ""
+    },
+    "bi": {
+      "Word": "bi",
+      "Definition": "have",
+      "Example": "",
+      "See Also": ""
+    },
+    "di": {
+      "Word": "di",
+      "Definition": "cause",
+      "Example": "",
+      "See Also": ""
+    },
+    "gi": {
+      "Word": "gi",
+      "Definition": "knowledge, knowledgeable; to know",
+      "Example": "",
+      "See Also": ""
+    },
+    "fi": {
+      "Word": "fi",
+      "Definition": "thought, thoughtful, pensive; to think",
+      "Example": "",
+      "See Also": ""
+    },
+    "si": {
+      "Word": "si",
+      "Definition": "emotion, feeling, emotional; to feel",
+      "Example": "",
+      "See Also": ""
+    },
+    "ci": {
+      "Word": "ci",
+      "Definition": "desire, want, desirable; to want",
+      "Example": "",
+      "See Also": ""
+    },
+    "li": {
+      "Word": "li",
+      "Definition": "refusal, rejection, not wanting; to refuse, to not want",
+      "Example": "",
+      "See Also": ""
+    },
+    "ji": {
+      "Word": "ji",
+      "Definition": "touch; to touch",
+      "Example": "",
+      "See Also": ""
+    },
+    "wi": {
+      "Word": "wi",
+      "Definition": "sight, light; to see",
+      "Example": "",
+      "See Also": ""
+    },
+    "hi": {
+      "Word": "hi",
+      "Definition": "hearing, sound; to hear",
+      "Example": "",
+      "See Also": ""
+    },
+    "mi": {
+      "Word": "mi",
+      "Definition": "if",
+      "Example": "",
+      "See Also": ""
+    },
+    "ni": {
+      "Word": "ni",
+      "Definition": "(location marker)",
+      "Example": "",
+      "See Also": ""
+    },
+    "i": {
+      "Word": "i",
+      "Definition": "or",
+      "Example": "",
+      "See Also": ""
+    },
+    "pu": {
+      "Word": "pu",
+      "Definition": "not, don't; to not be",
+      "Example": "",
+      "See Also": ""
+    },
+    "tu": {
+      "Word": "tu",
+      "Definition": "maybe",
+      "Example": "",
+      "See Also": ""
+    },
+    "ku": {
+      "Word": "ku",
+      "Definition": "ability, able; can",
+      "Example": "",
+      "See Also": ""
+    },
+    "bu": {
+      "Word": "bu",
+      "Definition": "very",
+      "Example": "",
+      "See Also": ""
+    },
+    "du": {
+      "Word": "du",
+      "Definition": "more",
+      "Example": "",
+      "See Also": ""
+    },
+    "gu": {
+      "Word": "gu",
+      "Definition": "time",
+      "Example": "",
+      "See Also": ""
+    },
+    "fu": {
+      "Word": "fu",
+      "Definition": "now",
+      "Example": "",
+      "See Also": ""
+    },
+    "su": {
+      "Word": "su",
+      "Definition": "before",
+      "Example": "",
+      "See Also": ""
+    },
+    "cu": {
+      "Word": "cu",
+      "Definition": "after",
+      "Example": "",
+      "See Also": ""
+    },
+    "lu": {
+      "Word": "lu",
+      "Definition": "moment",
+      "Example": "",
+      "See Also": ""
+    },
+    "ju": {
+      "Word": "ju",
+      "Definition": "a short time, temporary",
+      "Example": "",
+      "See Also": ""
+    },
+    "wu": {
+      "Word": "wu",
+      "Definition": "some time, duration, finite",
+      "Example": "",
+      "See Also": ""
+    },
+    "hu": {
+      "Word": "hu",
+      "Definition": "a long time, a while, long-lasting",
+      "Example": "",
+      "See Also": ""
+    },
+    "mu": {
+      "Word": "mu",
+      "Definition": "because",
+      "Example": "",
+      "See Also": ""
+    },
+    "nu": {
+      "Word": "nu",
+      "Definition": "(time marker)",
+      "Example": "",
+      "See Also": ""
+    },
+    "u": {
+      "Word": "u",
+      "Definition": "but",
+      "Example": "",
+      "See Also": ""
+    },
+    "po": {
+      "Word": "po",
+      "Definition": "zero",
+      "Example": "",
+      "See Also": ""
+    },
+    "to": {
+      "Word": "to",
+      "Definition": "one",
+      "Example": "",
+      "See Also": ""
+    },
+    "ko": {
+      "Word": "ko",
+      "Definition": "two",
+      "Example": "",
+      "See Also": ""
+    },
+    "bo": {
+      "Word": "bo",
+      "Definition": "three",
+      "Example": "",
+      "See Also": ""
+    },
+    "do": {
+      "Word": "do",
+      "Definition": "four",
+      "Example": "",
+      "See Also": ""
+    },
+    "go": {
+      "Word": "go",
+      "Definition": "place",
+      "Example": "",
+      "See Also": ""
+    },
+    "fo": {
+      "Word": "fo",
+      "Definition": "here",
+      "Example": "",
+      "See Also": ""
+    },
+    "so": {
+      "Word": "so",
+      "Definition": "above",
+      "Example": "",
+      "See Also": ""
+    },
+    "co": {
+      "Word": "co",
+      "Definition": "below",
+      "Example": "",
+      "See Also": ""
+    },
+    "lo": {
+      "Word": "lo",
+      "Definition": "far",
+      "Example": "",
+      "See Also": ""
+    },
+    "jo": {
+      "Word": "jo",
+      "Definition": "near",
+      "Example": "",
+      "See Also": ""
+    },
+    "wo": {
+      "Word": "wo",
+      "Definition": "side",
+      "Example": "",
+      "See Also": ""
+    },
+    "ho": {
+      "Word": "ho",
+      "Definition": "inside",
+      "Example": "",
+      "See Also": ""
+    },
+    "mo": {
+      "Word": "mo",
+      "Definition": "to be",
+      "Example": "",
+      "See Also": ""
+    },
+    "no": {
+      "Word": "no",
+      "Definition": "(object marker)",
+      "Example": "",
+      "See Also": ""
+    },
+    "o": {
+      "Word": "o",
+      "Definition": "of",
+      "Example": "",
+      "See Also": ""
+    },
+    "pan": {
+      "Word": "pan",
+      "Definition": "head, lead, main",
+      "Example": "",
+      "See Also": ""
+    },
+    "tan": {
+      "Word": "tan",
+      "Definition": "blood",
+      "Example": "",
+      "See Also": ""
+    },
+    "kan": {
+      "Word": "kan",
+      "Definition": "bone",
+      "Example": "",
+      "See Also": ""
+    },
+    "ban": {
+      "Word": "ban",
+      "Definition": "flesh, skin, exterior",
+      "Example": "",
+      "See Also": ""
+    },
+    "dan": {
+      "Word": "dan",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "gan": {
+      "Word": "gan",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "fan": {
+      "Word": "fan",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "san": {
+      "Word": "san",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "can": {
+      "Word": "can",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "lan": {
+      "Word": "lan",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "jan": {
+      "Word": "jan",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "wan": {
+      "Word": "wan",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "han": {
+      "Word": "han",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "man": {
+      "Word": "man",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "NaN": {
+      "Word": NaN,
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "an": {
+      "Word": "an",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "pen": {
+      "Word": "pen",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "ten": {
+      "Word": "ten",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "ken": {
+      "Word": "ken",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "ben": {
+      "Word": "ben",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "den": {
+      "Word": "den",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "gen": {
+      "Word": "gen",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "fen": {
+      "Word": "fen",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "sen": {
+      "Word": "sen",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "cen": {
+      "Word": "cen",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "len": {
+      "Word": "len",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "jen": {
+      "Word": "jen",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "wen": {
+      "Word": "wen",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "hen": {
+      "Word": "hen",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "men": {
+      "Word": "men",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "nen": {
+      "Word": "nen",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "en": {
+      "Word": "en",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "pin": {
+      "Word": "pin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "tin": {
+      "Word": "tin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "kin": {
+      "Word": "kin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "bin": {
+      "Word": "bin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "din": {
+      "Word": "din",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "gin": {
+      "Word": "gin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "fin": {
+      "Word": "fin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "sin": {
+      "Word": "sin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "cin": {
+      "Word": "cin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "lin": {
+      "Word": "lin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "jin": {
+      "Word": "jin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "win": {
+      "Word": "win",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "hin": {
+      "Word": "hin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "min": {
+      "Word": "min",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "nin": {
+      "Word": "nin",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "in": {
+      "Word": "in",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "pun": {
+      "Word": "pun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "tun": {
+      "Word": "tun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "kun": {
+      "Word": "kun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "bun": {
+      "Word": "bun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "dun": {
+      "Word": "dun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "gun": {
+      "Word": "gun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "fun": {
+      "Word": "fun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "sun": {
+      "Word": "sun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "cun": {
+      "Word": "cun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "lun": {
+      "Word": "lun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "jun": {
+      "Word": "jun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "wun": {
+      "Word": "wun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "hun": {
+      "Word": "hun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "mun": {
+      "Word": "mun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "nun": {
+      "Word": "nun",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "un": {
+      "Word": "un",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "pon": {
+      "Word": "pon",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "ton": {
+      "Word": "ton",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "kon": {
+      "Word": "kon",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "bon": {
+      "Word": "bon",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "don": {
+      "Word": "don",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "gon": {
+      "Word": "gon",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "fon": {
+      "Word": "fon",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "son": {
+      "Word": "son",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "con": {
+      "Word": "con",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "lon": {
+      "Word": "lon",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "jon": {
+      "Word": "jon",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "won": {
+      "Word": "won",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "hon": {
+      "Word": "hon",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "mon": {
+      "Word": "mon",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "non": {
+      "Word": "non",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    },
+    "on": {
+      "Word": "on",
+      "Definition": "",
+      "Example": "",
+      "See Also": ""
+    }
+  },
+  "jacon": {}
+}
