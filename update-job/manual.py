@@ -1,4 +1,6 @@
 import json
+from math import nan
+import math
 import os
 import re
 import sys
@@ -22,8 +24,8 @@ if __name__ == "__main__":
     baja_worksheet = sheet.get_worksheet(0)
     jacon_worksheet = sheet.get_worksheet(1)
 
-    baja_records: list[dict[str, str]] = baja_worksheet.get_all_records()
-    jacon_records: list[dict[str, str]] = jacon_worksheet.get_all_records()
+    baja_records = baja_worksheet.get_all_records(numericise_ignore=["all"])
+    jacon_records = jacon_worksheet.get_all_records(numericise_ignore=["all"])
 
     # Create empty dictionaries to make a proper dictionary with the records
     baja = {}
@@ -41,7 +43,9 @@ if __name__ == "__main__":
     with open("../data.json", "w") as f:
         json.dump(bundle, f, indent=2)
 
+    print(bundle)
+
     git = Git("..")
     git.add("-A")
-    git.commit("-m", "Updating repo")
+    git.commit("-m", "Manual update of data.json")
     git.push(f"https://{GITHUB_TOKEN}@github.com/go-kawaba/diomawe.git")
