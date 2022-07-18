@@ -31,8 +31,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
       run: |
-        git config --global user.email "AcipenserSturio@users.noreply.github.com"
-        git config --global user.name "AcipenserSturio"
+        git config --global user.email "mazziechai@gmail.com"
+        git config --global user.name "Mazzie"
 
     - name: Update jasima
       run: |

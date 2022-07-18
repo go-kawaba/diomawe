@@ -1,20 +1,20 @@
 #!/bin/python3
 
-import urllib.request
-import re
 import json
+import os
+import re
 import sys
+import urllib.request
+
+from dotenv import load_dotenv
 from git import Git
 
-
-import os
-from dotenv import load_dotenv
 load_dotenv()
-GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 
 def get_site(link):
-    return urllib.request.urlopen(link).read().decode('utf8')
+    return urllib.request.urlopen(link).read().decode("utf8")
 
 
 def build_dict_from_sheet(link):
@@ -52,7 +52,7 @@ if __name__ == "__main__":
     with open("sheets.json") as file:
         sheets = json.load(file)
     bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
-    with open("../data.json", 'w') as f:
+    with open("../data.json", "w") as f:
         json.dump(bundle, f, indent=2)
 
     git = Git("..")
