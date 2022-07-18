@@ -58,4 +58,4 @@ if __name__ == "__main__":
     git = Git("..")
     git.add("-A")
     git.commit("-m", "Updating repo")
-    git.push(f"https://{GITHUB_TOKEN}@github.com/lipu-linku/jasima.git")
+    git.push(f"https://{GITHUB_TOKEN}@github.com/go-kawaba/diomawe.git")

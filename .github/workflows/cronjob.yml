@@ -1,6 +1,6 @@
-# A cronjob for updating jasima
+# A cronjob for updating diomawe
 
-name: Cronjob for jasima
+name: Cronjob for diomawe
 
 on:
   schedule:
@@ -33,7 +33,7 @@ jobs:
         git config --global user.email "mazziechai@gmail.com"
         git config --global user.name "Mazzie"
 
-    - name: Update jasima
+    - name: Update diomawe
       run: |
         cd update-job
         python updater.py
