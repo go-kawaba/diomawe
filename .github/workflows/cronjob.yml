@@ -4,14 +4,13 @@ name: Cronjob for jasima
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */1 * * *'
 
 permissions:
   contents: write
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
