@@ -98,25 +98,25 @@
     },
     "pe": {
       "Word": "pe",
-      "Definition": "good",
+      "Definition": "good, a good thing; to be good",
       "Example": "",
       "See Also": ""
     },
     "te": {
       "Word": "te",
-      "Definition": "bad",
+      "Definition": "bad, evil, a bad thing; to be bad",
       "Example": "",
       "See Also": ""
     },
     "ke": {
       "Word": "ke",
-      "Definition": "big",
+      "Definition": "big, size, a big thing; to be big",
       "Example": "",
       "See Also": ""
     },
     "be": {
       "Word": "be",
-      "Definition": "small",
+      "Definition": "small, a small thing; to be small",
       "Example": "",
       "See Also": ""
     },
@@ -164,13 +164,13 @@
     },
     "we": {
       "Word": "we",
-      "Definition": "the same, similar",
+      "Definition": "same, the same thing, similar; to be the same",
       "Example": "",
       "See Also": ""
     },
     "he": {
       "Word": "he",
-      "Definition": "another, different, other",
+      "Definition": " other ,different, another thing, a different thing; to be different",
       "Example": "",
       "See Also": ""
     },
@@ -254,7 +254,7 @@
     },
     "ji": {
       "Word": "ji",
-      "Definition": "touch; to touch",
+      "Definition": "touch, touching; to touch",
       "Example": "",
       "See Also": ""
     },
@@ -344,25 +344,25 @@
     },
     "lu": {
       "Word": "lu",
-      "Definition": "moment",
+      "Definition": "moment; to last for a moment",
       "Example": "",
       "See Also": ""
     },
     "ju": {
       "Word": "ju",
-      "Definition": "a short time, temporary",
+      "Definition": "a short time, temporary; to last a short time",
       "Example": "",
       "See Also": ""
     },
     "wu": {
       "Word": "wu",
-      "Definition": "some time, duration, finite",
+      "Definition": "some time, duration; to last some time",
       "Example": "",
       "See Also": ""
     },
     "hu": {
       "Word": "hu",
-      "Definition": "a long time, a while, long-lasting",
+      "Definition": "a long time, a while, long-lasting; to last a long time",
       "Example": "",
       "See Also": ""
     },
@@ -488,13 +488,13 @@
     },
     "tan": {
       "Word": "tan",
-      "Definition": "blood",
+      "Definition": "blood, bloody; to be blood",
       "Example": "",
       "See Also": ""
     },
     "kan": {
       "Word": "kan",
-      "Definition": "bone",
+      "Definition": "bone, boney; to be a bone",
       "Example": "",
       "See Also": ""
     },
@@ -506,19 +506,19 @@
     },
     "dan": {
       "Word": "dan",
-      "Definition": "metal",
+      "Definition": "metal, metallic; to be metal",
       "Example": "",
       "See Also": ""
     },
     "gan": {
       "Word": "gan",
-      "Definition": "glass",
+      "Definition": "glass, glassy, to be glass",
       "Example": "",
       "See Also": ""
     },
     "fan": {
       "Word": "fan",
-      "Definition": "cloth",
+      "Definition": "cloth, clothy; to be cloth",
       "Example": "",
       "See Also": ""
     },
@@ -578,385 +578,385 @@
     },
     "pen": {
       "Word": "pen",
-      "Definition": "",
+      "Definition": "length, long",
       "Example": "",
       "See Also": ""
     },
     "ten": {
       "Word": "ten",
-      "Definition": "",
+      "Definition": "width, wide",
       "Example": "",
       "See Also": ""
     },
     "ken": {
       "Word": "ken",
-      "Definition": "",
+      "Definition": "height, tall",
       "Example": "",
       "See Also": ""
     },
     "ben": {
       "Word": "ben",
-      "Definition": "",
+      "Definition": "round",
       "Example": "",
       "See Also": ""
     },
     "den": {
       "Word": "den",
-      "Definition": "",
+      "Definition": "soft, softness, a soft thing; to be soft",
       "Example": "",
       "See Also": ""
     },
     "gen": {
       "Word": "gen",
-      "Definition": "",
+      "Definition": "sharp, sharpness, a sharp thing; to be sharp",
       "Example": "",
       "See Also": ""
     },
     "fen": {
       "Word": "fen",
-      "Definition": "",
+      "Definition": "smooth, smoothness, a smooth thing; to be smooth",
       "Example": "",
       "See Also": ""
     },
     "sen": {
       "Word": "sen",
-      "Definition": "",
+      "Definition": "heavy, weight, a heavy thing; to be heavy",
       "Example": "",
       "See Also": ""
     },
     "cen": {
       "Word": "cen",
-      "Definition": "",
+      "Definition": "strong, strength, a strong thing; to be strong",
       "Example": "",
       "See Also": ""
     },
     "len": {
       "Word": "len",
-      "Definition": "",
+      "Definition": "new, age, a new thing; to be new",
       "Example": "",
       "See Also": ""
     },
     "jen": {
       "Word": "jen",
-      "Definition": "",
+      "Definition": "hot, heat, cooked, a hot thing; to be hot, to cook",
       "Example": "",
       "See Also": ""
     },
     "wen": {
       "Word": "wen",
-      "Definition": "",
+      "Definition": "cold, coolness, raw, a cool thing; to be cool",
       "Example": "",
       "See Also": ""
     },
     "hen": {
       "Word": "hen",
-      "Definition": "",
+      "Definition": "hole",
       "Example": "",
       "See Also": ""
     },
     "men": {
       "Word": "men",
-      "Definition": "",
+      "Definition": "surface",
       "Example": "",
       "See Also": ""
     },
     "nen": {
       "Word": "nen",
-      "Definition": "",
+      "Definition": "(confirmation marker)",
       "Example": "",
       "See Also": ""
     },
     "en": {
       "Word": "en",
-      "Definition": "",
+      "Definition": "with",
       "Example": "",
       "See Also": ""
     },
     "pin": {
       "Word": "pin",
-      "Definition": "",
+      "Definition": "sky",
       "Example": "",
       "See Also": ""
     },
     "tin": {
       "Word": "tin",
-      "Definition": "",
+      "Definition": "moon",
       "Example": "",
       "See Also": ""
     },
     "kin": {
       "Word": "kin",
-      "Definition": "",
+      "Definition": "sun",
       "Example": "",
       "See Also": ""
     },
     "bin": {
       "Word": "bin",
-      "Definition": "",
+      "Definition": "ground, land, dirt, earth, grounded, dirty; to be ground",
       "Example": "",
       "See Also": ""
     },
     "din": {
       "Word": "din",
-      "Definition": "",
+      "Definition": "stars",
       "Example": "",
       "See Also": ""
     },
     "gin": {
       "Word": "gin",
-      "Definition": "",
+      "Definition": "water",
       "Example": "",
       "See Also": ""
     },
     "fin": {
       "Word": "fin",
-      "Definition": "",
+      "Definition": "fire",
       "Example": "",
       "See Also": ""
     },
     "sin": {
       "Word": "sin",
-      "Definition": "",
+      "Definition": "wood",
       "Example": "",
       "See Also": ""
     },
     "cin": {
       "Word": "cin",
-      "Definition": "",
+      "Definition": "stone",
       "Example": "",
       "See Also": ""
     },
     "lin": {
       "Word": "lin",
-      "Definition": "",
+      "Definition": "house",
       "Example": "",
       "See Also": ""
     },
     "jin": {
       "Word": "jin",
-      "Definition": "",
+      "Definition": "group",
       "Example": "",
       "See Also": ""
     },
     "win": {
       "Word": "win",
-      "Definition": "",
+      "Definition": "grain",
       "Example": "",
       "See Also": ""
     },
     "hin": {
       "Word": "hin",
-      "Definition": "",
+      "Definition": "sweet, sugar, a sweet thing; to be sweet",
       "Example": "",
       "See Also": ""
     },
     "min": {
       "Word": "min",
-      "Definition": "",
+      "Definition": "to eat, to drink",
       "Example": "",
       "See Also": ""
     },
     "nin": {
       "Word": "nin",
-      "Definition": "",
+      "Definition": "(imperative marker)",
       "Example": "",
       "See Also": ""
     },
     "in": {
       "Word": "in",
-      "Definition": "",
+      "Definition": "from",
       "Example": "",
       "See Also": ""
     },
     "pun": {
       "Word": "pun",
-      "Definition": "",
+      "Definition": "creature",
       "Example": "",
       "See Also": ""
     },
     "tun": {
       "Word": "tun",
-      "Definition": "",
+      "Definition": "plant",
       "Example": "",
       "See Also": ""
     },
     "kun": {
       "Word": "kun",
-      "Definition": "",
+      "Definition": "breath, air; to breathe",
       "Example": "",
       "See Also": ""
     },
     "bun": {
       "Word": "bun",
-      "Definition": "",
+      "Definition": "sleep",
       "Example": "",
       "See Also": ""
     },
     "dun": {
       "Word": "dun",
-      "Definition": "",
+      "Definition": "health",
       "Example": "",
       "See Also": ""
     },
     "gun": {
       "Word": "gun",
-      "Definition": "",
+      "Definition": "man, male; to be a man",
       "Example": "",
       "See Also": ""
     },
     "fun": {
       "Word": "fun",
-      "Definition": "",
+      "Definition": "woman, female; to be a woman",
       "Example": "",
       "See Also": ""
     },
     "sun": {
       "Word": "sun",
-      "Definition": "",
+      "Definition": "parent, parental; to be a parent",
       "Example": "",
       "See Also": ""
     },
     "cun": {
       "Word": "cun",
-      "Definition": "",
+      "Definition": "love",
       "Example": "",
       "See Also": ""
     },
     "lun": {
       "Word": "lun",
-      "Definition": "",
+      "Definition": "start",
       "Example": "",
       "See Also": ""
     },
     "jun": {
       "Word": "jun",
-      "Definition": "",
+      "Definition": "middle",
       "Example": "",
       "See Also": ""
     },
     "wun": {
       "Word": "wun",
-      "Definition": "",
+      "Definition": "end",
       "Example": "",
       "See Also": ""
     },
     "hun": {
       "Word": "hun",
-      "Definition": "",
+      "Definition": "tool, machine, tooled; to tool",
       "Example": "",
       "See Also": ""
     },
     "mun": {
       "Word": "mun",
-      "Definition": "",
+      "Definition": "trade, commerce, transaction; to trade, to buy, to exchange",
       "Example": "",
       "See Also": ""
     },
     "nun": {
       "Word": "nun",
-      "Definition": "",
+      "Definition": "(question marker)",
       "Example": "",
       "See Also": ""
     },
     "un": {
       "Word": "un",
-      "Definition": "",
+      "Definition": "to",
       "Example": "",
       "See Also": ""
     },
     "pon": {
       "Word": "pon",
-      "Definition": "",
+      "Definition": "five",
       "Example": "",
       "See Also": ""
     },
     "ton": {
       "Word": "ton",
-      "Definition": "",
+      "Definition": "six",
       "Example": "",
       "See Also": ""
     },
     "kon": {
       "Word": "kon",
-      "Definition": "",
+      "Definition": "seven",
       "Example": "",
       "See Also": ""
     },
     "bon": {
       "Word": "bon",
-      "Definition": "",
+      "Definition": "eight",
       "Example": "",
       "See Also": ""
     },
     "don": {
       "Word": "don",
-      "Definition": "",
+      "Definition": "nine",
       "Example": "",
       "See Also": ""
     },
     "gon": {
       "Word": "gon",
-      "Definition": "",
+      "Definition": "try",
       "Example": "",
       "See Also": ""
     },
     "fon": {
       "Word": "fon",
-      "Definition": "",
+      "Definition": "need",
       "Example": "",
       "See Also": ""
     },
     "son": {
       "Word": "son",
-      "Definition": "",
+      "Definition": "change",
       "Example": "",
       "See Also": ""
     },
     "con": {
       "Word": "con",
-      "Definition": "",
+      "Definition": "make",
       "Example": "",
       "See Also": ""
     },
     "lon": {
       "Word": "lon",
-      "Definition": "",
+      "Definition": "ruins, faulty, broken, destroyed; to break",
       "Example": "",
       "See Also": ""
     },
     "jon": {
       "Word": "jon",
-      "Definition": "",
+      "Definition": "game, playful; to play",
       "Example": "",
       "See Also": ""
     },
     "won": {
       "Word": "won",
-      "Definition": "",
+      "Definition": "laugh, laughing, funny; to laugh",
       "Example": "",
       "See Also": ""
     },
     "hon": {
       "Word": "hon",
-      "Definition": "",
+      "Definition": "learn, learning; to learn",
       "Example": "",
       "See Also": ""
     },
     "mon": {
       "Word": "mon",
-      "Definition": "",
+      "Definition": "sex, sexy: to have sexual intercourse",
       "Example": "",
       "See Also": ""
     },
     "non": {
       "Word": "non",
-      "Definition": "",
+      "Definition": "(quote marker)",
       "Example": "",
       "See Also": ""
     },
     "on": {
       "Word": "on",
-      "Definition": "",
+      "Definition": "using",
       "Example": "",
       "See Also": ""
     }
