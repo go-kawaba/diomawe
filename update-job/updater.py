@@ -15,7 +15,7 @@ load_dotenv()
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 if __name__ == "__main__":
-    with open("service_account.json") as f:
+    with open("service_account.json", "w") as f:
         f.write(os.getenv("SERVICE_ACCOUNT"))  # type: ignore
 
     gc = gspread.service_account()
