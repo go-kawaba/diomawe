@@ -2,43 +2,43 @@
   "baja": {
     "pa": {
       "Word": "pa",
-      "Definition": "life, alive, living; to live",
-      "Example": "da ne pa - I am alive",
+      "Definition": "life, alive, living; to live; a life",
+      "Example": "da ne pa - I am alive.",
       "See Also": ""
     },
     "ta": {
       "Word": "ta",
       "Definition": "death, dead, dying; to die",
-      "Example": "",
+      "Example": "da ne ci o ga ne tapu - I want you not to die.",
       "See Also": ""
     },
     "ka": {
       "Word": "ka",
-      "Definition": "kind, variety, catagory; to be a kind of",
+      "Definition": "kind, variety, category; to be a kind of",
       "Example": "",
       "See Also": ""
     },
     "ba": {
       "Word": "ba",
       "Definition": "part, piece, section; to be a part of",
-      "Example": "",
+      "Example": "man no ba'ominhin un da nin - Give me a piece of cake.",
       "See Also": ""
     },
     "da": {
       "Word": "da",
       "Definition": "me, we; to be myself",
-      "Example": "",
+      "Example": "da ne da - I am me.",
       "See Also": ""
     },
     "ga": {
       "Word": "ga",
       "Definition": "you; to be yourself",
-      "Example": "",
+      "Example": "ga ne sile - What do you feel?",
       "See Also": ""
     },
     "fa": {
       "Word": "fa",
-      "Definition": "someone else, he, she, they",
+      "Definition": "animate third person pronoun",
       "Example": "",
       "See Also": ""
     },
@@ -51,7 +51,7 @@
     "ca": {
       "Word": "ca",
       "Definition": "thing, matter, object; to be a thing",
-      "Example": "",
+      "Example": "ca je ne le? - What is this thing?",
       "See Also": ""
     },
     "la": {
@@ -63,7 +63,7 @@
     "ja": {
       "Word": "ja",
       "Definition": "word; to be a word",
-      "Example": "",
+      "Example": "le ne ja o je - What is the word for this?",
       "See Also": ""
     },
     "wa": {
@@ -80,7 +80,7 @@
     },
     "ma": {
       "Word": "ma",
-      "Definition": "way, like; to be like",
+      "Definition": "way, like; to be like, to be similar; a similar thing",
       "Example": "",
       "See Also": ""
     },
@@ -122,43 +122,43 @@
     },
     "de": {
       "Word": "de",
-      "Definition": "none",
+      "Definition": "none; nothing",
       "Example": "",
       "See Also": ""
     },
     "ge": {
       "Word": "ge",
-      "Definition": "few",
+      "Definition": "few; few things",
       "Example": "",
       "See Also": ""
     },
     "fe": {
       "Word": "fe",
-      "Definition": "some",
+      "Definition": "some; some things",
       "Example": "",
       "See Also": ""
     },
     "se": {
       "Word": "se",
-      "Definition": "many",
+      "Definition": "many; many things",
       "Example": "",
       "See Also": ""
     },
     "ce": {
       "Word": "ce",
-      "Definition": "all",
+      "Definition": "all; all things, everything",
       "Example": "",
       "See Also": ""
     },
     "le": {
       "Word": "le",
-      "Definition": "what",
+      "Definition": "what; in what manner/way",
       "Example": "",
       "See Also": ""
     },
     "je": {
       "Word": "je",
-      "Definition": "this",
+      "Definition": "this; to be this",
       "Example": "",
       "See Also": ""
     },
@@ -170,7 +170,7 @@
     },
     "he": {
       "Word": "he",
-      "Definition": " other ,different, another thing, a different thing; to be different",
+      "Definition": " other, different, unfamiliar; another thing, a different thing; to be different",
       "Example": "",
       "See Also": ""
     },
@@ -194,7 +194,7 @@
     },
     "pi": {
       "Word": "pi",
-      "Definition": "do",
+      "Definition": "to do, to achieve",
       "Example": "",
       "See Also": ""
     },
@@ -212,13 +212,13 @@
     },
     "bi": {
       "Word": "bi",
-      "Definition": "have",
+      "Definition": "to have, to hold",
       "Example": "",
       "See Also": ""
     },
     "di": {
       "Word": "di",
-      "Definition": "cause",
+      "Definition": "to cause; a reason, an explanation",
       "Example": "",
       "See Also": ""
     },
@@ -290,19 +290,19 @@
     },
     "pu": {
       "Word": "pu",
-      "Definition": "not, don't; to not be",
+      "Definition": "not, don't; to not be (negation)",
       "Example": "",
       "See Also": ""
     },
     "tu": {
       "Word": "tu",
-      "Definition": "maybe",
+      "Definition": "maybe, possible, a possibility; to possibly be",
       "Example": "",
       "See Also": ""
     },
     "ku": {
       "Word": "ku",
-      "Definition": "ability, able; can",
+      "Definition": "ability, able; can; a skill",
       "Example": "",
       "See Also": ""
     },
@@ -320,25 +320,25 @@
     },
     "gu": {
       "Word": "gu",
-      "Definition": "time",
+      "Definition": "time, duration",
       "Example": "",
       "See Also": ""
     },
     "fu": {
       "Word": "fu",
-      "Definition": "now",
+      "Definition": "now, the present",
       "Example": "",
       "See Also": ""
     },
     "su": {
       "Word": "su",
-      "Definition": "before",
+      "Definition": "before, the past",
       "Example": "",
       "See Also": ""
     },
     "cu": {
       "Word": "cu",
-      "Definition": "after",
+      "Definition": "after, the future",
       "Example": "",
       "See Also": ""
     },
@@ -356,7 +356,7 @@
     },
     "wu": {
       "Word": "wu",
-      "Definition": "some time, duration; to last some time",
+      "Definition": "some time; to last some time",
       "Example": "",
       "See Also": ""
     },
@@ -368,13 +368,13 @@
     },
     "mu": {
       "Word": "mu",
-      "Definition": "because",
-      "Example": "",
+      "Definition": "because; a reason, a motivation",
+      "Example": "ci o fi ne mu no hon - A want of knowledge is the motivation for learning.",
       "See Also": ""
     },
     "nu": {
       "Word": "nu",
-      "Definition": "(time marker)",
+      "Definition": "(temporal marker)",
       "Example": "",
       "See Also": ""
     },
@@ -416,7 +416,7 @@
     },
     "go": {
       "Word": "go",
-      "Definition": "place",
+      "Definition": "place, somwhere",
       "Example": "",
       "See Also": ""
     },
@@ -428,13 +428,13 @@
     },
     "so": {
       "Word": "so",
-      "Definition": "above",
+      "Definition": "to be above; high",
       "Example": "",
       "See Also": ""
     },
     "co": {
       "Word": "co",
-      "Definition": "below",
+      "Definition": "to be below; low",
       "Example": "",
       "See Also": ""
     },
@@ -446,25 +446,25 @@
     },
     "jo": {
       "Word": "jo",
-      "Definition": "near",
+      "Definition": "near, close to",
       "Example": "",
       "See Also": ""
     },
     "wo": {
       "Word": "wo",
-      "Definition": "side",
+      "Definition": "the side; to be next to",
       "Example": "",
       "See Also": ""
     },
     "ho": {
       "Word": "ho",
-      "Definition": "inside",
+      "Definition": "to be inside; to be contained in ... (t)",
       "Example": "",
       "See Also": ""
     },
     "mo": {
       "Word": "mo",
-      "Definition": "to be",
+      "Definition": "to be, to exist",
       "Example": "",
       "See Also": ""
     },
@@ -489,7 +489,7 @@
     "tan": {
       "Word": "tan",
       "Definition": "blood, bloody; to be blood",
-      "Example": "",
+      "Example": "fu nu tin ne santan - Now, the moon is blood colour.",
       "See Also": ""
     },
     "kan": {
@@ -524,7 +524,7 @@
     },
     "san": {
       "Word": "san",
-      "Definition": "colour",
+      "Definition": "colour, coloured; to be a colour/colourful",
       "Example": "",
       "See Also": ""
     },
@@ -572,7 +572,7 @@
     },
     "an": {
       "Word": "an",
-      "Definition": "about",
+      "Definition": "about, relevant to, regarding (preposition)",
       "Example": "",
       "See Also": ""
     },
@@ -596,7 +596,7 @@
     },
     "ben": {
       "Word": "ben",
-      "Definition": "round",
+      "Definition": "round, spherical, circular; to be round",
       "Example": "",
       "See Also": ""
     },
@@ -632,7 +632,7 @@
     },
     "len": {
       "Word": "len",
-      "Definition": "new, age, a new thing; to be new",
+      "Definition": "new, a new thing; to be new",
       "Example": "",
       "See Also": ""
     },
@@ -663,30 +663,30 @@
     "nen": {
       "Word": "nen",
       "Definition": "(confirmation marker)",
-      "Example": "",
+      "Example": "ga ne sape, nen ? - You're a good person, right?",
       "See Also": ""
     },
     "en": {
       "Word": "en",
-      "Definition": "with",
+      "Definition": "with, accompanied by (preposition)",
       "Example": "",
       "See Also": ""
     },
     "pin": {
       "Word": "pin",
-      "Definition": "sky",
-      "Example": "",
+      "Definition": "sky, aerial; to be a sky",
+      "Example": "pin ne kese - The sky is very big.",
       "See Also": ""
     },
     "tin": {
       "Word": "tin",
-      "Definition": "moon",
-      "Example": "",
+      "Definition": "moon, lunar; to be a moon",
+      "Example": "tin ne sape o kin - The moon is the friend of the sun.",
       "See Also": ""
     },
     "kin": {
       "Word": "kin",
-      "Definition": "sun",
+      "Definition": "sun, solar; to be a sun",
       "Example": "",
       "See Also": ""
     },
@@ -698,7 +698,7 @@
     },
     "din": {
       "Word": "din",
-      "Definition": "stars",
+      "Definition": "stars, stellar; to be a star",
       "Example": "",
       "See Also": ""
     },
@@ -734,7 +734,7 @@
     },
     "jin": {
       "Word": "jin",
-      "Definition": "group",
+      "Definition": "a group, a collection;",
       "Example": "",
       "See Also": ""
     },
@@ -801,13 +801,13 @@
     "gun": {
       "Word": "gun",
       "Definition": "man, male; to be a man",
-      "Example": "",
+      "Example": "gunko je ne cun - These two men are in love.",
       "See Also": ""
     },
     "fun": {
       "Word": "fun",
       "Definition": "woman, female; to be a woman",
-      "Example": "",
+      "Example": "fo nu funse mo - Here, there are many women.",
       "See Also": ""
     },
     "sun": {
@@ -818,13 +818,13 @@
     },
     "cun": {
       "Word": "cun",
-      "Definition": "love",
+      "Definition": "to love/be in love; a lover (romantic partner)",
       "Example": "",
       "See Also": ""
     },
     "lun": {
       "Word": "lun",
-      "Definition": "start",
+      "Definition": "to start, to begin; a start, an origin",
       "Example": "",
       "See Also": ""
     },
@@ -854,7 +854,7 @@
     },
     "nun": {
       "Word": "nun",
-      "Definition": "(question marker)",
+      "Definition": "(polar question marker)",
       "Example": "",
       "See Also": ""
     },
@@ -896,38 +896,38 @@
     },
     "gon": {
       "Word": "gon",
-      "Definition": "try",
+      "Definition": "to try, to attempt; to hunt; an attempt, an effort",
       "Example": "",
       "See Also": ""
     },
     "fon": {
       "Word": "fon",
-      "Definition": "need",
+      "Definition": "to need, to rely on, to depend on",
       "Example": "",
       "See Also": ""
     },
     "son": {
       "Word": "son",
-      "Definition": "change",
+      "Definition": "to change, to develop",
       "Example": "",
       "See Also": ""
     },
     "con": {
       "Word": "con",
-      "Definition": "make",
+      "Definition": "to make, to create; a creation",
       "Example": "",
       "See Also": ""
     },
     "lon": {
       "Word": "lon",
       "Definition": "ruins, faulty, broken, destroyed; to break",
-      "Example": "",
+      "Example": "lin da no lon - My house was destroyed.",
       "See Also": ""
     },
     "jon": {
       "Word": "jon",
       "Definition": "game, playful; to play",
-      "Example": "",
+      "Example": "jon ne pe - Games are good.",
       "See Also": ""
     },
     "won": {
@@ -944,20 +944,20 @@
     },
     "mon": {
       "Word": "mon",
-      "Definition": "sex, sexy: to have sexual intercourse",
-      "Example": "",
+      "Definition": "sex, sexy; to have sexual intercourse",
+      "Example": "ga ne mon no fa nun ? - Did you have sex with them?",
       "See Also": ""
     },
     "non": {
       "Word": "non",
       "Definition": "(quote marker)",
-      "Example": "",
+      "Example": "natali' non ne jada - \"Natalie\" is my name.",
       "See Also": ""
     },
     "on": {
       "Word": "on",
       "Definition": "using",
-      "Example": "",
+      "Example": "ga e da ne wa on kawaba - You and I talk using kawaba.",
       "See Also": ""
     }
   },
