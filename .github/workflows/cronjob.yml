@@ -29,6 +29,7 @@ jobs:
     - name: Configuration
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        SERVICE_ACCOUNT: ${{ secrets.SERVICE_ACCOUNT }}
       run: |
         git config --global user.email "mazziechai@gmail.com"
         git config --global user.name "Mazzie"
