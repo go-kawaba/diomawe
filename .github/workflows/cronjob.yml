@@ -29,12 +29,13 @@ jobs:
     - name: Configuration
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        SERVICE_ACCOUNT: ${{ secrets.SERVICE_ACCOUNT }}
       run: |
         git config --global user.email "mazziechai@gmail.com"
         git config --global user.name "Mazzie"
 
     - name: Update diomawe
+      env:
+        SERVICE_ACCOUNT: ${{ secrets.SERVICE_ACCOUNT }}
       run: |
         cd update-job
         python updater.py
