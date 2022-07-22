@@ -18,7 +18,7 @@ if __name__ == "__main__":
     with open("service_account.json", "w") as f:
         f.write(os.getenv("SERVICE_ACCOUNT"))  # type: ignore
 
-    gc = gspread.service_account()
+    gc = gspread.service_account(filename="service_account.json")
 
     sheet = gc.open_by_url(
         "https://docs.google.com/spreadsheets/d/1cwZesVrMlr4fQOdHXWJ9_q2VCY7njD2agWynAsDl4_s"
