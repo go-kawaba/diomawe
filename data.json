@@ -564,8 +564,8 @@
       "Example": "",
       "See Also": ""
     },
-    "nan": {
-      "Word": "nan",
+    "NaN": {
+      "Word": NaN,
       "Definition": "(emphasis marker)",
       "Example": "",
       "See Also": ""
@@ -704,25 +704,25 @@
     },
     "gin": {
       "Word": "gin",
-      "Definition": "water",
+      "Definition": "water, watery, wet; to be water",
       "Example": "",
       "See Also": ""
     },
     "fin": {
       "Word": "fin",
-      "Definition": "fire",
+      "Definition": "fire, firey; to be fire",
       "Example": "",
       "See Also": ""
     },
     "sin": {
       "Word": "sin",
-      "Definition": "wood",
+      "Definition": "wood, wooden; to be wood",
       "Example": "",
       "See Also": ""
     },
     "cin": {
       "Word": "cin",
-      "Definition": "stone",
+      "Definition": "stone, stony; to be stone",
       "Example": "",
       "See Also": ""
     },
@@ -961,5 +961,84 @@
       "See Also": ""
     }
   },
-  "jacon": {}
+  "jacon": {
+    "kinpe": {
+      "Word": "kinpe",
+      "Definition": "hello",
+      "Example": "",
+      "See Also": ""
+    },
+    "santan": {
+      "Word": "santan",
+      "Definition": "red, crimson",
+      "Example": "",
+      "See Also": ""
+    },
+    "sanwin": {
+      "Word": "sanwin",
+      "Definition": "yellow",
+      "Example": "",
+      "See Also": ""
+    },
+    "sankin": {
+      "Word": "sankin",
+      "Definition": "yellowy-orange",
+      "Example": "",
+      "See Also": ""
+    },
+    "santun": {
+      "Word": "santun",
+      "Definition": "green",
+      "Example": "",
+      "See Also": ""
+    },
+    "sangin": {
+      "Word": "sangin",
+      "Definition": "bluey-green, teal, cyan",
+      "Example": "",
+      "See Also": ""
+    },
+    "sanpun": {
+      "Word": "sanpun",
+      "Definition": "blue",
+      "Example": "",
+      "See Also": ""
+    },
+    "sandin": {
+      "Word": "sandin",
+      "Definition": "purple",
+      "Example": "",
+      "See Also": ""
+    },
+    "sansin": {
+      "Word": "sansin",
+      "Definition": "brown",
+      "Example": "",
+      "See Also": ""
+    },
+    "sande": {
+      "Word": "sande",
+      "Definition": "black",
+      "Example": "",
+      "See Also": ""
+    },
+    "sanfe": {
+      "Word": "sanfe",
+      "Definition": "gray",
+      "Example": "",
+      "See Also": ""
+    },
+    "sance": {
+      "Word": "sance",
+      "Definition": "white",
+      "Example": "",
+      "See Also": ""
+    },
+    "ginki": {
+      "Word": "ginki",
+      "Definition": "stream, river, flowing water",
+      "Example": "",
+      "See Also": ""
+    }
+  }
 }
