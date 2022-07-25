@@ -34,6 +34,8 @@ jobs:
         git config --global user.name "Mazzie"
 
     - name: Update diomawe
+      env:
+        SERVICE_ACCOUNT: ${{ secrets.SERVICE_ACCOUNT }}
       run: |
         cd update-job
         python updater.py
