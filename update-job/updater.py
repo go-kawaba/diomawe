@@ -26,8 +26,8 @@ if __name__ == "__main__":
     baja_worksheet = sheet.get_worksheet(0)
     jacon_worksheet = sheet.get_worksheet(1)
 
-    baja_records: list[dict[str, str]] = baja_worksheet.get_all_records()
-    jacon_records: list[dict[str, str]] = jacon_worksheet.get_all_records()
+    baja_records = baja_worksheet.get_all_records(numericise_ignore=["all"])
+    jacon_records = jacon_worksheet.get_all_records(numericise_ignore=["all"])
 
     # Create empty dictionaries to make a proper dictionary with the records
     baja = {}
