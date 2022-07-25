@@ -658,8 +658,8 @@
       "Gloss": "give",
       "See Also": ""
     },
-    "NaN": {
-      "Word": NaN,
+    "nan": {
+      "Word": "nan",
       "Definition": "(emphasis marker)",
       "Example": "",
       "Gloss": "\u1d07\u1d0d\u1d18\u029c",
