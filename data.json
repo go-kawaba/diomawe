@@ -2,898 +2,821 @@
   "baja": {
     "pa": {
       "Word": "pa",
-      "Definition": "life, alive, living; to live; a life",
-      "Example": "da ne pa - I am alive.",
+      "Definition": "to live",
+      "Example": "",
       "Gloss": "live",
       "See Also": ""
     },
     "ta": {
       "Word": "ta",
-      "Definition": "death, dead, dying; to die",
-      "Example": "da ne ci o ga ne tapu - I want you not to die.",
+      "Definition": "to die",
+      "Example": "",
       "Gloss": "die",
       "See Also": ""
     },
     "ka": {
       "Word": "ka",
-      "Definition": "kind, variety, category; to be a kind of",
+      "Definition": "kind, type",
       "Example": "",
       "Gloss": "kind",
       "See Also": ""
     },
     "ba": {
       "Word": "ba",
-      "Definition": "part, piece, section; to be a part of",
-      "Example": "man no ba'ominhin un da nin - Give me a piece of cake.",
+      "Definition": "part, piece, section",
+      "Example": "",
       "Gloss": "part",
       "See Also": ""
     },
     "da": {
       "Word": "da",
-      "Definition": "me, we; to be myself",
-      "Example": "da ne da - I am me.",
+      "Definition": "first person pronoun",
+      "Example": "",
       "Gloss": "me",
       "See Also": ""
     },
     "ga": {
       "Word": "ga",
-      "Definition": "you; to be yourself",
-      "Example": "ga ne sile - What do you feel?",
+      "Definition": "second person pronoun",
+      "Example": "",
       "Gloss": "you",
-      "See Also": ""
-    },
-    "fa": {
-      "Word": "fa",
-      "Definition": "animate third person pronoun",
-      "Example": "",
-      "Gloss": "someone",
-      "See Also": ""
-    },
-    "sa": {
-      "Word": "sa",
-      "Definition": "person, human being, sentient entity; to be human",
-      "Example": "",
-      "Gloss": "person",
-      "See Also": ""
-    },
-    "ca": {
-      "Word": "ca",
-      "Definition": "thing, matter, object; to be a thing",
-      "Example": "ca je ne le? - What is this thing?",
-      "Gloss": "thing",
       "See Also": ""
     },
     "la": {
       "Word": "la",
-      "Definition": "body, form, physical state; to be a body",
+      "Definition": "third person pronoun",
       "Example": "",
-      "Gloss": "body",
+      "Gloss": "they",
       "See Also": ""
     },
     "ja": {
       "Word": "ja",
-      "Definition": "word; to be a word",
-      "Example": "le ne ja o je - What is the word for this?",
-      "Gloss": "word",
-      "See Also": ""
-    },
-    "wa": {
-      "Word": "wa",
-      "Definition": "speaking, communication; to talk (in), to say (t)",
-      "Example": "",
-      "Gloss": "say",
-      "See Also": ""
-    },
-    "ha": {
-      "Word": "ha",
-      "Definition": "truth, true; to be true",
+      "Definition": "true",
       "Example": "",
       "Gloss": "true",
       "See Also": ""
     },
+    "wa": {
+      "Word": "wa",
+      "Definition": "to speak, to say",
+      "Example": "",
+      "Gloss": "speak",
+      "See Also": ""
+    },
+    "sa": {
+      "Word": "sa",
+      "Definition": "person, human",
+      "Example": "",
+      "Gloss": "person",
+      "See Also": ""
+    },
     "ma": {
       "Word": "ma",
-      "Definition": "way, like; to be like, to be similar; a similar thing",
+      "Definition": "body",
       "Example": "",
-      "Gloss": "way",
+      "Gloss": "body",
       "See Also": ""
     },
     "na": {
       "Word": "na",
-      "Definition": "(context marker)",
+      "Definition": "",
       "Example": "",
-      "Gloss": "\u1d04",
+      "Gloss": "",
       "See Also": ""
     },
     "a": {
       "Word": "a",
-      "Definition": "for",
+      "Definition": "like, as, way",
       "Example": "",
-      "Gloss": "for",
+      "Gloss": "like",
       "See Also": ""
     },
     "pe": {
       "Word": "pe",
-      "Definition": "good, a good thing; to be good",
+      "Definition": "good",
       "Example": "",
       "Gloss": "good",
       "See Also": ""
     },
     "te": {
       "Word": "te",
-      "Definition": "bad, evil, a bad thing; to be bad",
+      "Definition": "bad",
       "Example": "",
       "Gloss": "bad",
       "See Also": ""
     },
     "ke": {
       "Word": "ke",
-      "Definition": "big, size, a big thing; to be big",
+      "Definition": "not",
       "Example": "",
-      "Gloss": "big",
+      "Gloss": "not",
       "See Also": ""
     },
     "be": {
       "Word": "be",
-      "Definition": "small, a small thing; to be small",
+      "Definition": "more",
       "Example": "",
-      "Gloss": "small",
+      "Gloss": "more",
       "See Also": ""
     },
     "de": {
       "Word": "de",
-      "Definition": "none; nothing",
+      "Definition": "none",
       "Example": "",
       "Gloss": "none",
       "See Also": ""
     },
     "ge": {
       "Word": "ge",
-      "Definition": "few; few things",
-      "Example": "",
-      "Gloss": "few",
-      "See Also": ""
-    },
-    "fe": {
-      "Word": "fe",
-      "Definition": "some; some things",
+      "Definition": "some",
       "Example": "",
       "Gloss": "some",
       "See Also": ""
     },
-    "se": {
-      "Word": "se",
-      "Definition": "many; many things",
-      "Example": "",
-      "Gloss": "many",
-      "See Also": ""
-    },
-    "ce": {
-      "Word": "ce",
-      "Definition": "all; all things, everything",
+    "le": {
+      "Word": "le",
+      "Definition": "all",
       "Example": "",
       "Gloss": "all",
       "See Also": ""
     },
-    "le": {
-      "Word": "le",
-      "Definition": "what; in what manner/way",
-      "Example": "",
-      "Gloss": "what",
-      "See Also": ""
-    },
     "je": {
       "Word": "je",
-      "Definition": "this; to be this",
+      "Definition": "this",
       "Example": "",
       "Gloss": "this",
       "See Also": ""
     },
     "we": {
       "Word": "we",
-      "Definition": "same, the same thing, similar; to be the same",
+      "Definition": "what",
+      "Example": "",
+      "Gloss": "what",
+      "See Also": ""
+    },
+    "se": {
+      "Word": "se",
+      "Definition": "same",
       "Example": "",
       "Gloss": "same",
       "See Also": ""
     },
-    "he": {
-      "Word": "he",
-      "Definition": " other, different, unfamiliar; another thing, a different thing; to be different",
+    "me": {
+      "Word": "me",
+      "Definition": "different, other, another",
       "Example": "",
       "Gloss": "different",
       "See Also": ""
     },
-    "me": {
-      "Word": "me",
-      "Definition": "compared to",
-      "Example": "",
-      "Gloss": "compared-to",
-      "See Also": ""
-    },
     "ne": {
       "Word": "ne",
-      "Definition": "(subject marker)",
+      "Definition": "",
       "Example": "",
-      "Gloss": "s",
+      "Gloss": "",
       "See Also": ""
     },
     "e": {
       "Word": "e",
-      "Definition": "and",
-      "Example": "",
-      "Gloss": "and",
-      "See Also": ""
-    },
-    "pi": {
-      "Word": "pi",
-      "Definition": "to do, to achieve",
+      "Definition": "to do",
       "Example": "",
       "Gloss": "do",
       "See Also": ""
     },
+    "pi": {
+      "Word": "pi",
+      "Definition": "to contain",
+      "Example": "",
+      "Gloss": "contain",
+      "See Also": ""
+    },
     "ti": {
       "Word": "ti",
-      "Definition": "happen",
+      "Definition": "to happen",
       "Example": "",
       "Gloss": "happen",
       "See Also": ""
     },
     "ki": {
       "Word": "ki",
-      "Definition": "movement, travel, go, move",
+      "Definition": " to move",
       "Example": "",
       "Gloss": "move",
       "See Also": ""
     },
     "bi": {
       "Word": "bi",
-      "Definition": "to have, to hold",
+      "Definition": "to have",
       "Example": "",
       "Gloss": "have",
       "See Also": ""
     },
     "di": {
       "Word": "di",
-      "Definition": "to cause; a reason, an explanation",
-      "Example": "",
-      "Gloss": "cause",
-      "See Also": ""
-    },
-    "gi": {
-      "Word": "gi",
-      "Definition": "knowledge, knowledgeable; to know",
-      "Example": "",
-      "Gloss": "know",
-      "See Also": ""
-    },
-    "fi": {
-      "Word": "fi",
-      "Definition": "thought, thoughtful, pensive; to think",
+      "Definition": "to think",
       "Example": "",
       "Gloss": "think",
       "See Also": ""
     },
-    "si": {
-      "Word": "si",
-      "Definition": "emotion, feeling, emotional; to feel",
+    "gi": {
+      "Word": "gi",
+      "Definition": "to know",
       "Example": "",
-      "Gloss": "feel",
-      "See Also": ""
-    },
-    "ci": {
-      "Word": "ci",
-      "Definition": "desire, want, desirable; to want",
-      "Example": "",
-      "Gloss": "want",
+      "Gloss": "know",
       "See Also": ""
     },
     "li": {
       "Word": "li",
-      "Definition": "refusal, rejection, not wanting; to refuse, to not want",
+      "Definition": "to feel",
       "Example": "",
-      "Gloss": "reject",
+      "Gloss": "feel",
       "See Also": ""
     },
     "ji": {
       "Word": "ji",
-      "Definition": "touch, touching; to touch",
+      "Definition": "to want",
       "Example": "",
-      "Gloss": "touch",
+      "Gloss": "want",
       "See Also": ""
     },
     "wi": {
       "Word": "wi",
-      "Definition": "sight, light; to see",
+      "Definition": "to see",
       "Example": "",
       "Gloss": "see",
       "See Also": ""
     },
-    "hi": {
-      "Word": "hi",
-      "Definition": "hearing, sound; to hear",
+    "si": {
+      "Word": "si",
+      "Definition": "to hear",
       "Example": "",
       "Gloss": "hear",
       "See Also": ""
     },
     "mi": {
       "Word": "mi",
-      "Definition": "if",
+      "Definition": "to exist",
       "Example": "",
-      "Gloss": "if",
+      "Gloss": "exist",
       "See Also": ""
     },
     "ni": {
       "Word": "ni",
-      "Definition": "(location marker)",
+      "Definition": "",
       "Example": "",
       "Gloss": "",
       "See Also": ""
     },
     "i": {
       "Word": "i",
-      "Definition": "or",
+      "Definition": "",
       "Example": "",
-      "Gloss": "or",
-      "See Also": ""
-    },
-    "pu": {
-      "Word": "pu",
-      "Definition": "not, don't; to not be (negation)",
-      "Example": "",
-      "Gloss": "not",
-      "See Also": ""
-    },
-    "tu": {
-      "Word": "tu",
-      "Definition": "maybe, possible, a possibility; to possibly be",
-      "Example": "",
-      "Gloss": "maybe",
-      "See Also": ""
-    },
-    "ku": {
-      "Word": "ku",
-      "Definition": "ability, able; can; a skill",
-      "Example": "",
-      "Gloss": "can",
-      "See Also": ""
-    },
-    "bu": {
-      "Word": "bu",
-      "Definition": "very",
-      "Example": "",
-      "Gloss": "very",
-      "See Also": ""
-    },
-    "du": {
-      "Word": "du",
-      "Definition": "more",
-      "Example": "",
-      "Gloss": "more",
-      "See Also": ""
-    },
-    "gu": {
-      "Word": "gu",
-      "Definition": "time, duration",
-      "Example": "",
-      "Gloss": "time",
-      "See Also": ""
-    },
-    "fu": {
-      "Word": "fu",
-      "Definition": "now, the present",
-      "Example": "",
-      "Gloss": "now",
-      "See Also": ""
-    },
-    "su": {
-      "Word": "su",
-      "Definition": "before, the past",
-      "Example": "",
-      "Gloss": "before",
-      "See Also": ""
-    },
-    "cu": {
-      "Word": "cu",
-      "Definition": "after, the future",
-      "Example": "",
-      "Gloss": "after",
-      "See Also": ""
-    },
-    "lu": {
-      "Word": "lu",
-      "Definition": "moment; to last for a moment",
-      "Example": "",
-      "Gloss": "moment",
-      "See Also": ""
-    },
-    "ju": {
-      "Word": "ju",
-      "Definition": "a short time, temporary; to last a short time",
-      "Example": "",
-      "Gloss": "a short time",
-      "See Also": ""
-    },
-    "wu": {
-      "Word": "wu",
-      "Definition": "some time; to last some time",
-      "Example": "",
-      "Gloss": "some time",
-      "See Also": ""
-    },
-    "hu": {
-      "Word": "hu",
-      "Definition": "a long time, a while, long-lasting; to last a long time",
-      "Example": "",
-      "Gloss": "a long time",
-      "See Also": ""
-    },
-    "mu": {
-      "Word": "mu",
-      "Definition": "because; a reason, a motivation",
-      "Example": "ci o fi ne mu no hon - A want of knowledge is the motivation for learning.",
-      "Gloss": "because",
-      "See Also": ""
-    },
-    "nu": {
-      "Word": "nu",
-      "Definition": "(temporal marker)",
-      "Example": "",
-      "Gloss": "\u1d1b",
-      "See Also": ""
-    },
-    "u": {
-      "Word": "u",
-      "Definition": "but",
-      "Example": "",
-      "Gloss": "but",
+      "Gloss": "",
       "See Also": ""
     },
     "po": {
       "Word": "po",
-      "Definition": "zero",
+      "Definition": "can",
       "Example": "",
-      "Gloss": "0",
+      "Gloss": "can",
       "See Also": ""
     },
     "to": {
       "Word": "to",
-      "Definition": "one",
+      "Definition": "maybe",
       "Example": "",
-      "Gloss": "1",
+      "Gloss": "maybe",
       "See Also": ""
     },
     "ko": {
       "Word": "ko",
-      "Definition": "two",
+      "Definition": "small",
       "Example": "",
-      "Gloss": "2",
+      "Gloss": "small",
       "See Also": ""
     },
     "bo": {
       "Word": "bo",
-      "Definition": "three",
+      "Definition": "big",
       "Example": "",
-      "Gloss": "3",
+      "Gloss": "big",
       "See Also": ""
     },
     "do": {
       "Word": "do",
-      "Definition": "four",
+      "Definition": "time",
       "Example": "",
-      "Gloss": "4",
+      "Gloss": "time",
       "See Also": ""
     },
     "go": {
       "Word": "go",
-      "Definition": "place, somwhere",
+      "Definition": "place",
       "Example": "",
       "Gloss": "place",
       "See Also": ""
     },
-    "fo": {
-      "Word": "fo",
-      "Definition": "here",
-      "Example": "",
-      "Gloss": "here",
-      "See Also": ""
-    },
-    "so": {
-      "Word": "so",
-      "Definition": "to be above; high",
-      "Example": "",
-      "Gloss": "above",
-      "See Also": ""
-    },
-    "co": {
-      "Word": "co",
-      "Definition": "to be below; low",
-      "Example": "",
-      "Gloss": "below",
-      "See Also": ""
-    },
     "lo": {
       "Word": "lo",
-      "Definition": "far",
+      "Definition": "before",
       "Example": "",
-      "Gloss": "far",
+      "Gloss": "before",
       "See Also": ""
     },
     "jo": {
       "Word": "jo",
-      "Definition": "near, close to",
+      "Definition": "after",
       "Example": "",
-      "Gloss": "near",
+      "Gloss": "after",
       "See Also": ""
     },
     "wo": {
       "Word": "wo",
-      "Definition": "the side; to be next to",
+      "Definition": "above",
       "Example": "",
-      "Gloss": "side",
+      "Gloss": "above",
       "See Also": ""
     },
-    "ho": {
-      "Word": "ho",
-      "Definition": "to be inside; to be contained in ... (t)",
+    "so": {
+      "Word": "so",
+      "Definition": "below",
       "Example": "",
-      "Gloss": "inside",
+      "Gloss": "below",
       "See Also": ""
     },
     "mo": {
       "Word": "mo",
-      "Definition": "to be, to exist",
+      "Definition": "to love",
       "Example": "",
-      "Gloss": "are",
+      "Gloss": "love",
       "See Also": ""
     },
     "no": {
       "Word": "no",
-      "Definition": "(object marker)",
+      "Definition": "",
       "Example": "",
-      "Gloss": "\u1d0f",
+      "Gloss": "",
       "See Also": ""
     },
     "o": {
       "Word": "o",
-      "Definition": "of",
+      "Definition": "thing",
       "Example": "",
-      "Gloss": "of",
+      "Gloss": "thing",
+      "See Also": ""
+    },
+    "pu": {
+      "Word": "pu",
+      "Definition": "to need",
+      "Example": "",
+      "Gloss": "need",
+      "See Also": ""
+    },
+    "tu": {
+      "Word": "tu",
+      "Definition": "to change",
+      "Example": "",
+      "Gloss": "change",
+      "See Also": ""
+    },
+    "ku": {
+      "Word": "ku",
+      "Definition": "to give, to release, to emit",
+      "Example": "",
+      "Gloss": "give",
+      "See Also": ""
+    },
+    "bu": {
+      "Word": "bu",
+      "Definition": "to get, to recieve, to accept",
+      "Example": "",
+      "Gloss": "get",
+      "See Also": ""
+    },
+    "du": {
+      "Word": "du",
+      "Definition": "to make",
+      "Example": "",
+      "Gloss": "make",
+      "See Also": ""
+    },
+    "gu": {
+      "Word": "gu",
+      "Definition": "to break",
+      "Example": "",
+      "Gloss": "break",
+      "See Also": ""
+    },
+    "lu": {
+      "Word": "lu",
+      "Definition": "to touch, to make contact",
+      "Example": "",
+      "Gloss": "touch",
+      "See Also": ""
+    },
+    "ju": {
+      "Word": "ju",
+      "Definition": "side",
+      "Example": "",
+      "Gloss": "side",
+      "See Also": ""
+    },
+    "wu": {
+      "Word": "wu",
+      "Definition": "inside",
+      "Example": "",
+      "Gloss": "inside",
+      "See Also": ""
+    },
+    "su": {
+      "Word": "su",
+      "Definition": "to try",
+      "Example": "",
+      "Gloss": "try",
+      "See Also": ""
+    },
+    "mu": {
+      "Word": "mu",
+      "Definition": "to use",
+      "Example": "",
+      "Gloss": "use",
+      "See Also": ""
+    },
+    "nu": {
+      "Word": "nu",
+      "Definition": "",
+      "Example": "",
+      "Gloss": "",
+      "See Also": ""
+    },
+    "u": {
+      "Word": "u",
+      "Definition": "general preposition, in, at, on",
+      "Example": "",
+      "Gloss": "",
       "See Also": ""
     },
     "pan": {
       "Word": "pan",
-      "Definition": "head, lead, main",
+      "Definition": "point",
       "Example": "",
-      "Gloss": "head",
+      "Gloss": "point",
       "See Also": ""
     },
     "tan": {
       "Word": "tan",
-      "Definition": "blood, bloody; to be blood",
-      "Example": "fu nu tin ne santan - Now, the moon is blood colour.",
-      "Gloss": "blood",
+      "Definition": "line",
+      "Example": "",
+      "Gloss": "line",
       "See Also": ""
     },
     "kan": {
       "Word": "kan",
-      "Definition": "bone, boney; to be a bone",
+      "Definition": "surface",
       "Example": "",
-      "Gloss": "bone",
+      "Gloss": "surface",
       "See Also": ""
     },
     "ban": {
       "Word": "ban",
-      "Definition": "flesh, skin, exterior",
+      "Definition": "hole",
       "Example": "",
-      "Gloss": "flesh",
+      "Gloss": "hole",
       "See Also": ""
     },
     "dan": {
       "Word": "dan",
-      "Definition": "metal, metallic; to be metal",
+      "Definition": "metal",
       "Example": "",
       "Gloss": "metal",
       "See Also": ""
     },
     "gan": {
       "Word": "gan",
-      "Definition": "glass, glassy, to be glass",
+      "Definition": "glass",
       "Example": "",
       "Gloss": "glass",
       "See Also": ""
     },
-    "fan": {
-      "Word": "fan",
-      "Definition": "cloth, clothy; to be cloth",
+    "lan": {
+      "Word": "lan",
+      "Definition": "cloth",
       "Example": "",
       "Gloss": "cloth",
       "See Also": ""
     },
+    "jan": {
+      "Word": "jan",
+      "Definition": "word",
+      "Example": "",
+      "Gloss": "word",
+      "See Also": ""
+    },
+    "wan": {
+      "Word": "wan",
+      "Definition": "write",
+      "Example": "",
+      "Gloss": "write",
+      "See Also": ""
+    },
     "san": {
       "Word": "san",
-      "Definition": "colour, coloured; to be a colour/colourful",
+      "Definition": "colour",
       "Example": "",
       "Gloss": "colour",
       "See Also": ""
     },
-    "can": {
-      "Word": "can",
-      "Definition": "number",
-      "Example": "",
-      "Gloss": "number",
-      "See Also": ""
-    },
-    "lan": {
-      "Word": "lan",
+    "man": {
+      "Word": "man",
       "Definition": "shape",
       "Example": "",
       "Gloss": "shape",
       "See Also": ""
     },
-    "jan": {
-      "Word": "jan",
-      "Definition": "text",
-      "Example": "",
-      "Gloss": "text",
-      "See Also": ""
-    },
-    "wan": {
-      "Word": "wan",
-      "Definition": "picture",
-      "Example": "",
-      "Gloss": "picture",
-      "See Also": ""
-    },
-    "han": {
-      "Word": "han",
-      "Definition": "to take, to get, to recieve",
-      "Example": "",
-      "Gloss": "take",
-      "See Also": ""
-    },
-    "man": {
-      "Word": "man",
-      "Definition": "gift; to release, to give",
-      "Example": "",
-      "Gloss": "give",
-      "See Also": ""
-    },
     "nan": {
       "Word": "nan",
-      "Definition": "(emphasis marker)",
+      "Definition": "",
       "Example": "",
-      "Gloss": "\u1d07\u1d0d\u1d18\u029c",
+      "Gloss": "",
       "See Also": ""
     },
     "an": {
       "Word": "an",
-      "Definition": "about, relevant to, regarding (preposition)",
+      "Definition": "",
       "Example": "",
-      "Gloss": "about",
+      "Gloss": "",
       "See Also": ""
     },
     "pen": {
       "Word": "pen",
-      "Definition": "length, long",
+      "Definition": "",
       "Example": "",
-      "Gloss": "long",
+      "Gloss": "",
       "See Also": ""
     },
     "ten": {
       "Word": "ten",
-      "Definition": "width, wide",
+      "Definition": "",
       "Example": "",
-      "Gloss": "wide",
+      "Gloss": "",
       "See Also": ""
     },
     "ken": {
       "Word": "ken",
-      "Definition": "height, tall",
+      "Definition": "",
       "Example": "",
-      "Gloss": "tall",
+      "Gloss": "",
       "See Also": ""
     },
     "ben": {
       "Word": "ben",
-      "Definition": "round, spherical, circular; to be round",
+      "Definition": "",
       "Example": "",
-      "Gloss": "round",
+      "Gloss": "",
       "See Also": ""
     },
     "den": {
       "Word": "den",
-      "Definition": "soft, softness, a soft thing; to be soft",
+      "Definition": "",
       "Example": "",
-      "Gloss": "soft",
+      "Gloss": "",
       "See Also": ""
     },
     "gen": {
       "Word": "gen",
-      "Definition": "sharp, sharpness, a sharp thing; to be sharp",
+      "Definition": "",
       "Example": "",
-      "Gloss": "sharp",
-      "See Also": ""
-    },
-    "fen": {
-      "Word": "fen",
-      "Definition": "smooth, smoothness, a smooth thing; to be smooth",
-      "Example": "",
-      "Gloss": "smooth",
-      "See Also": ""
-    },
-    "sen": {
-      "Word": "sen",
-      "Definition": "heavy, weight, a heavy thing; to be heavy",
-      "Example": "",
-      "Gloss": "heavy",
-      "See Also": ""
-    },
-    "cen": {
-      "Word": "cen",
-      "Definition": "strong, strength, a strong thing; to be strong",
-      "Example": "",
-      "Gloss": "strong",
+      "Gloss": "",
       "See Also": ""
     },
     "len": {
       "Word": "len",
-      "Definition": "new, a new thing; to be new",
+      "Definition": "",
       "Example": "",
-      "Gloss": "new",
+      "Gloss": "",
       "See Also": ""
     },
     "jen": {
       "Word": "jen",
-      "Definition": "hot, heat, cooked, a hot thing; to be hot, to cook",
+      "Definition": "",
       "Example": "",
-      "Gloss": "hot",
+      "Gloss": "",
       "See Also": ""
     },
     "wen": {
       "Word": "wen",
-      "Definition": "cold, coolness, raw, a cool thing; to be cool",
+      "Definition": "",
       "Example": "",
-      "Gloss": "cold",
+      "Gloss": "",
       "See Also": ""
     },
-    "hen": {
-      "Word": "hen",
-      "Definition": "hole",
+    "sen": {
+      "Word": "sen",
+      "Definition": "",
       "Example": "",
-      "Gloss": "hole",
+      "Gloss": "",
       "See Also": ""
     },
     "men": {
       "Word": "men",
-      "Definition": "surface",
+      "Definition": "",
       "Example": "",
-      "Gloss": "surface",
+      "Gloss": "",
       "See Also": ""
     },
     "nen": {
       "Word": "nen",
-      "Definition": "(confirmation marker)",
-      "Example": "ga ne sape, nen ? - You're a good person, right?",
-      "Gloss": "\u1d04\u1d0f\u0274\u0493",
+      "Definition": "",
+      "Example": "",
+      "Gloss": "",
       "See Also": ""
     },
     "en": {
       "Word": "en",
-      "Definition": "with, accompanied by (preposition)",
+      "Definition": "",
       "Example": "",
-      "Gloss": "with",
+      "Gloss": "",
       "See Also": ""
     },
     "pin": {
       "Word": "pin",
-      "Definition": "sky, aerial; to be a sky",
-      "Example": "pin ne kese - The sky is very big.",
+      "Definition": "sky",
+      "Example": "",
       "Gloss": "sky",
       "See Also": ""
     },
     "tin": {
       "Word": "tin",
-      "Definition": "moon, lunar; to be a moon",
-      "Example": "tin ne sape o kin - The moon is the friend of the sun.",
-      "Gloss": "moon",
+      "Definition": "ground",
+      "Example": "",
+      "Gloss": "ground",
       "See Also": ""
     },
     "kin": {
       "Word": "kin",
-      "Definition": "sun, solar; to be a sun",
+      "Definition": "sun",
       "Example": "",
       "Gloss": "sun",
       "See Also": ""
     },
     "bin": {
       "Word": "bin",
-      "Definition": "ground, land, dirt, earth, grounded, dirty; to be ground",
+      "Definition": "moon",
       "Example": "",
-      "Gloss": "ground",
+      "Gloss": "moon",
       "See Also": ""
     },
     "din": {
       "Word": "din",
-      "Definition": "stars, stellar; to be a star",
+      "Definition": "star",
       "Example": "",
-      "Gloss": "stars",
+      "Gloss": "star",
       "See Also": ""
     },
     "gin": {
       "Word": "gin",
-      "Definition": "water, watery, wet; to be water",
+      "Definition": "water",
       "Example": "",
       "Gloss": "water",
       "See Also": ""
     },
-    "fin": {
-      "Word": "fin",
-      "Definition": "fire, firey; to be fire",
+    "lin": {
+      "Word": "lin",
+      "Definition": "fire",
       "Example": "",
       "Gloss": "fire",
       "See Also": ""
     },
-    "sin": {
-      "Word": "sin",
-      "Definition": "wood, wooden; to be wood",
+    "jin": {
+      "Word": "jin",
+      "Definition": "wood",
       "Example": "",
       "Gloss": "wood",
       "See Also": ""
     },
-    "cin": {
-      "Word": "cin",
-      "Definition": "stone, stony; to be stone",
+    "win": {
+      "Word": "win",
+      "Definition": "stone",
       "Example": "",
       "Gloss": "stone",
       "See Also": ""
     },
-    "lin": {
-      "Word": "lin",
-      "Definition": "house",
-      "Example": "",
-      "Gloss": "house",
-      "See Also": ""
-    },
-    "jin": {
-      "Word": "jin",
-      "Definition": "a group, a collection;",
-      "Example": "",
-      "Gloss": "group",
-      "See Also": ""
-    },
-    "win": {
-      "Word": "win",
-      "Definition": "grain",
-      "Example": "",
-      "Gloss": "grain",
-      "See Also": ""
-    },
-    "hin": {
-      "Word": "hin",
-      "Definition": "sweet, sugar, a sweet thing; to be sweet",
+    "sin": {
+      "Word": "sin",
+      "Definition": "sweet",
       "Example": "",
       "Gloss": "sweet",
       "See Also": ""
     },
     "min": {
       "Word": "min",
-      "Definition": "to eat, to drink",
+      "Definition": "eat",
       "Example": "",
-      "Gloss": "eat/drink",
+      "Gloss": "eat",
       "See Also": ""
     },
     "nin": {
       "Word": "nin",
-      "Definition": "(imperative marker)",
+      "Definition": "",
       "Example": "",
-      "Gloss": "\u026a\u1d0d\u1d18",
+      "Gloss": "",
       "See Also": ""
     },
     "in": {
       "Word": "in",
-      "Definition": "from",
+      "Definition": "",
       "Example": "",
-      "Gloss": "from",
+      "Gloss": "",
+      "See Also": ""
+    },
+    "pon": {
+      "Word": "pon",
+      "Definition": "house",
+      "Example": "",
+      "Gloss": "house",
+      "See Also": ""
+    },
+    "ton": {
+      "Word": "ton",
+      "Definition": "group",
+      "Example": "",
+      "Gloss": "group",
+      "See Also": ""
+    },
+    "kon": {
+      "Word": "kon",
+      "Definition": "to fight",
+      "Example": "",
+      "Gloss": "fight",
+      "See Also": ""
+    },
+    "bon": {
+      "Word": "bon",
+      "Definition": "to trade",
+      "Example": "",
+      "Gloss": "trade",
+      "See Also": ""
+    },
+    "don": {
+      "Word": "don",
+      "Definition": "to control",
+      "Example": "",
+      "Gloss": "control",
+      "See Also": ""
+    },
+    "gon": {
+      "Word": "gon",
+      "Definition": "start",
+      "Example": "",
+      "Gloss": "start",
+      "See Also": ""
+    },
+    "lon": {
+      "Word": "lon",
+      "Definition": "middle",
+      "Example": "",
+      "Gloss": "middle",
+      "See Also": ""
+    },
+    "jon": {
+      "Word": "jon",
+      "Definition": "end",
+      "Example": "",
+      "Gloss": "end",
+      "See Also": ""
+    },
+    "won": {
+      "Word": "won",
+      "Definition": "laugh",
+      "Example": "",
+      "Gloss": "laugh",
+      "See Also": ""
+    },
+    "son": {
+      "Word": "son",
+      "Definition": "play",
+      "Example": "",
+      "Gloss": "play",
+      "See Also": ""
+    },
+    "mon": {
+      "Word": "mon",
+      "Definition": "to have sex with, to fuck",
+      "Example": "",
+      "Gloss": "sex",
+      "See Also": ""
+    },
+    "non": {
+      "Word": "non",
+      "Definition": "",
+      "Example": "",
+      "Gloss": "",
+      "See Also": ""
+    },
+    "on": {
+      "Word": "on",
+      "Definition": "",
+      "Example": "",
+      "Gloss": "",
       "See Also": ""
     },
     "pun": {
@@ -912,212 +835,79 @@
     },
     "kun": {
       "Word": "kun",
-      "Definition": "breath, air; to breathe",
+      "Definition": "to breathe",
       "Example": "",
       "Gloss": "breathe",
       "See Also": ""
     },
     "bun": {
       "Word": "bun",
-      "Definition": "sleep",
+      "Definition": "to sleep",
       "Example": "",
       "Gloss": "sleep",
       "See Also": ""
     },
     "dun": {
       "Word": "dun",
+      "Definition": "man",
+      "Example": "",
+      "Gloss": "man",
+      "See Also": ""
+    },
+    "gun": {
+      "Word": "gun",
+      "Definition": "woman",
+      "Example": "",
+      "Gloss": "woman",
+      "See Also": ""
+    },
+    "lun": {
+      "Word": "lun",
+      "Definition": "mind",
+      "Example": "",
+      "Gloss": "mind",
+      "See Also": ""
+    },
+    "jun": {
+      "Word": "jun",
       "Definition": "health",
       "Example": "",
       "Gloss": "health",
       "See Also": ""
     },
-    "gun": {
-      "Word": "gun",
-      "Definition": "man, male; to be a man",
-      "Example": "gunko je ne cun - These two men are in love.",
-      "Gloss": "male",
-      "See Also": ""
-    },
-    "fun": {
-      "Word": "fun",
-      "Definition": "woman, female; to be a woman",
-      "Example": "fo nu funse mo - Here, there are many women.",
-      "Gloss": "female",
+    "wun": {
+      "Word": "wun",
+      "Definition": "child",
+      "Example": "",
+      "Gloss": "child",
       "See Also": ""
     },
     "sun": {
       "Word": "sun",
-      "Definition": "parent, parental; to be a parent",
+      "Definition": "parent",
       "Example": "",
       "Gloss": "parent",
       "See Also": ""
     },
-    "cun": {
-      "Word": "cun",
-      "Definition": "to love/be in love; a lover (romantic partner)",
-      "Example": "",
-      "Gloss": "love",
-      "See Also": ""
-    },
-    "lun": {
-      "Word": "lun",
-      "Definition": "to start, to begin; a start, an origin",
-      "Example": "",
-      "Gloss": "start",
-      "See Also": ""
-    },
-    "jun": {
-      "Word": "jun",
-      "Definition": "middle",
-      "Example": "",
-      "Gloss": "middle",
-      "See Also": ""
-    },
-    "wun": {
-      "Word": "wun",
-      "Definition": "end",
-      "Example": "",
-      "Gloss": "end",
-      "See Also": ""
-    },
-    "hun": {
-      "Word": "hun",
-      "Definition": "tool, machine, tooled; to tool",
-      "Example": "",
-      "Gloss": "tool",
-      "See Also": ""
-    },
     "mun": {
       "Word": "mun",
-      "Definition": "trade, commerce, transaction; to trade, to buy, to exchange",
+      "Definition": "family",
       "Example": "",
-      "Gloss": "trade",
+      "Gloss": "family",
       "See Also": ""
     },
     "nun": {
       "Word": "nun",
-      "Definition": "(polar question marker)",
+      "Definition": "",
       "Example": "",
-      "Gloss": "\u1d0f\u0328\u0274",
+      "Gloss": "",
       "See Also": ""
     },
     "un": {
       "Word": "un",
-      "Definition": "to",
+      "Definition": "",
       "Example": "",
-      "Gloss": "to",
-      "See Also": ""
-    },
-    "pon": {
-      "Word": "pon",
-      "Definition": "five",
-      "Example": "",
-      "Gloss": "5",
-      "See Also": ""
-    },
-    "ton": {
-      "Word": "ton",
-      "Definition": "six",
-      "Example": "",
-      "Gloss": "6",
-      "See Also": ""
-    },
-    "kon": {
-      "Word": "kon",
-      "Definition": "seven",
-      "Example": "",
-      "Gloss": "7",
-      "See Also": ""
-    },
-    "bon": {
-      "Word": "bon",
-      "Definition": "eight",
-      "Example": "",
-      "Gloss": "8",
-      "See Also": ""
-    },
-    "don": {
-      "Word": "don",
-      "Definition": "nine",
-      "Example": "",
-      "Gloss": "9",
-      "See Also": ""
-    },
-    "gon": {
-      "Word": "gon",
-      "Definition": "to try, to attempt; to hunt; an attempt, an effort",
-      "Example": "",
-      "Gloss": "try",
-      "See Also": ""
-    },
-    "fon": {
-      "Word": "fon",
-      "Definition": "to need, to rely on, to depend on",
-      "Example": "",
-      "Gloss": "need",
-      "See Also": ""
-    },
-    "son": {
-      "Word": "son",
-      "Definition": "to change, to develop",
-      "Example": "",
-      "Gloss": "change",
-      "See Also": ""
-    },
-    "con": {
-      "Word": "con",
-      "Definition": "to make, to create; a creation",
-      "Example": "",
-      "Gloss": "make",
-      "See Also": ""
-    },
-    "lon": {
-      "Word": "lon",
-      "Definition": "ruins, faulty, broken, destroyed; to break",
-      "Example": "lin da no lon - My house was destroyed.",
-      "Gloss": "break",
-      "See Also": ""
-    },
-    "jon": {
-      "Word": "jon",
-      "Definition": "game, playful; to play",
-      "Example": "jon ne pe - Games are good.",
-      "Gloss": "play",
-      "See Also": ""
-    },
-    "won": {
-      "Word": "won",
-      "Definition": "laugh, laughing, funny; to laugh",
-      "Example": "",
-      "Gloss": "laugh",
-      "See Also": ""
-    },
-    "hon": {
-      "Word": "hon",
-      "Definition": "learn, learning; to learn",
-      "Example": "",
-      "Gloss": "learn",
-      "See Also": ""
-    },
-    "mon": {
-      "Word": "mon",
-      "Definition": "sex, sexy; to have sexual intercourse",
-      "Example": "ga ne mon no fa nun ? - Did you have sex with them?",
-      "Gloss": "sex",
-      "See Also": ""
-    },
-    "non": {
-      "Word": "non",
-      "Definition": "(quote marker)",
-      "Example": "natali' non ne jada - \"Natalie\" is my name.",
-      "Gloss": "\u1d0f\u0328\u1d1c\u1d0f",
-      "See Also": ""
-    },
-    "on": {
-      "Word": "on",
-      "Definition": "using",
-      "Example": "ga e da ne wa on kawaba - You and I talk using kawaba.",
-      "Gloss": "using",
+      "Gloss": "",
       "See Also": ""
     }
   },
@@ -1125,72 +915,6 @@
     "kinpe": {
       "Word": "kinpe",
       "Definition": "hello",
-      "Example": "",
-      "See Also": ""
-    },
-    "santan": {
-      "Word": "santan",
-      "Definition": "red, crimson",
-      "Example": "",
-      "See Also": ""
-    },
-    "sanwin": {
-      "Word": "sanwin",
-      "Definition": "yellow",
-      "Example": "",
-      "See Also": ""
-    },
-    "sankin": {
-      "Word": "sankin",
-      "Definition": "yellowy-orange",
-      "Example": "",
-      "See Also": ""
-    },
-    "santun": {
-      "Word": "santun",
-      "Definition": "green",
-      "Example": "",
-      "See Also": ""
-    },
-    "sangin": {
-      "Word": "sangin",
-      "Definition": "bluey-green, teal, cyan",
-      "Example": "",
-      "See Also": ""
-    },
-    "sanpun": {
-      "Word": "sanpun",
-      "Definition": "blue",
-      "Example": "",
-      "See Also": ""
-    },
-    "sandin": {
-      "Word": "sandin",
-      "Definition": "purple",
-      "Example": "",
-      "See Also": ""
-    },
-    "sansin": {
-      "Word": "sansin",
-      "Definition": "brown",
-      "Example": "",
-      "See Also": ""
-    },
-    "sande": {
-      "Word": "sande",
-      "Definition": "black",
-      "Example": "",
-      "See Also": ""
-    },
-    "sanfe": {
-      "Word": "sanfe",
-      "Definition": "gray",
-      "Example": "",
-      "See Also": ""
-    },
-    "sance": {
-      "Word": "sance",
-      "Definition": "white",
       "Example": "",
       "See Also": ""
     },
