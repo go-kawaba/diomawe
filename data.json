@@ -2,6 +2,7 @@
   "baja": {
     "pa": {
       "Word": "pa",
+      "Part of speech": "verb",
       "Definition": "to live",
       "Example": "",
       "Gloss": "live",
@@ -9,6 +10,7 @@
     },
     "ta": {
       "Word": "ta",
+      "Part of speech": "verb",
       "Definition": "to die",
       "Example": "",
       "Gloss": "die",
@@ -16,6 +18,7 @@
     },
     "ka": {
       "Word": "ka",
+      "Part of speech": "noun",
       "Definition": "kind, type",
       "Example": "",
       "Gloss": "kind",
@@ -23,6 +26,7 @@
     },
     "ba": {
       "Word": "ba",
+      "Part of speech": "noun",
       "Definition": "part, piece, section",
       "Example": "",
       "Gloss": "part",
@@ -30,6 +34,7 @@
     },
     "da": {
       "Word": "da",
+      "Part of speech": "noun",
       "Definition": "first person pronoun",
       "Example": "",
       "Gloss": "me",
@@ -37,6 +42,7 @@
     },
     "ga": {
       "Word": "ga",
+      "Part of speech": "noun",
       "Definition": "second person pronoun",
       "Example": "",
       "Gloss": "you",
@@ -44,6 +50,7 @@
     },
     "la": {
       "Word": "la",
+      "Part of speech": "noun",
       "Definition": "third person pronoun",
       "Example": "",
       "Gloss": "they",
@@ -51,6 +58,7 @@
     },
     "ja": {
       "Word": "ja",
+      "Part of speech": "adjective",
       "Definition": "true",
       "Example": "",
       "Gloss": "true",
@@ -58,6 +66,7 @@
     },
     "wa": {
       "Word": "wa",
+      "Part of speech": "verb",
       "Definition": "to speak, to say",
       "Example": "",
       "Gloss": "speak",
@@ -65,6 +74,7 @@
     },
     "sa": {
       "Word": "sa",
+      "Part of speech": "noun",
       "Definition": "person, human",
       "Example": "",
       "Gloss": "person",
@@ -72,6 +82,7 @@
     },
     "ma": {
       "Word": "ma",
+      "Part of speech": "noun",
       "Definition": "body",
       "Example": "",
       "Gloss": "body",
@@ -79,6 +90,7 @@
     },
     "na": {
       "Word": "na",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -86,6 +98,7 @@
     },
     "a": {
       "Word": "a",
+      "Part of speech": "adjective",
       "Definition": "like, as, way",
       "Example": "",
       "Gloss": "like",
@@ -93,6 +106,7 @@
     },
     "pe": {
       "Word": "pe",
+      "Part of speech": "adjective",
       "Definition": "good",
       "Example": "",
       "Gloss": "good",
@@ -100,6 +114,7 @@
     },
     "te": {
       "Word": "te",
+      "Part of speech": "adjective",
       "Definition": "bad",
       "Example": "",
       "Gloss": "bad",
@@ -107,6 +122,7 @@
     },
     "ke": {
       "Word": "ke",
+      "Part of speech": "adjective",
       "Definition": "not",
       "Example": "",
       "Gloss": "not",
@@ -114,6 +130,7 @@
     },
     "be": {
       "Word": "be",
+      "Part of speech": "adjective",
       "Definition": "more",
       "Example": "",
       "Gloss": "more",
@@ -121,6 +138,7 @@
     },
     "de": {
       "Word": "de",
+      "Part of speech": "determiner",
       "Definition": "none",
       "Example": "",
       "Gloss": "none",
@@ -128,6 +146,7 @@
     },
     "ge": {
       "Word": "ge",
+      "Part of speech": "determiner",
       "Definition": "some",
       "Example": "",
       "Gloss": "some",
@@ -135,6 +154,7 @@
     },
     "le": {
       "Word": "le",
+      "Part of speech": "determiner",
       "Definition": "all",
       "Example": "",
       "Gloss": "all",
@@ -142,6 +162,7 @@
     },
     "je": {
       "Word": "je",
+      "Part of speech": "determiner",
       "Definition": "this",
       "Example": "",
       "Gloss": "this",
@@ -149,6 +170,7 @@
     },
     "we": {
       "Word": "we",
+      "Part of speech": "determiner",
       "Definition": "what",
       "Example": "",
       "Gloss": "what",
@@ -156,6 +178,7 @@
     },
     "se": {
       "Word": "se",
+      "Part of speech": "adjective",
       "Definition": "same",
       "Example": "",
       "Gloss": "same",
@@ -163,6 +186,7 @@
     },
     "me": {
       "Word": "me",
+      "Part of speech": "adjective",
       "Definition": "different, other, another",
       "Example": "",
       "Gloss": "different",
@@ -170,6 +194,7 @@
     },
     "ne": {
       "Word": "ne",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -177,6 +202,7 @@
     },
     "e": {
       "Word": "e",
+      "Part of speech": "verb",
       "Definition": "to do",
       "Example": "",
       "Gloss": "do",
@@ -184,6 +210,7 @@
     },
     "pi": {
       "Word": "pi",
+      "Part of speech": "verb",
       "Definition": "to contain",
       "Example": "",
       "Gloss": "contain",
@@ -191,6 +218,7 @@
     },
     "ti": {
       "Word": "ti",
+      "Part of speech": "verb",
       "Definition": "to happen",
       "Example": "",
       "Gloss": "happen",
@@ -198,6 +226,7 @@
     },
     "ki": {
       "Word": "ki",
+      "Part of speech": "verb",
       "Definition": " to move",
       "Example": "",
       "Gloss": "move",
@@ -205,6 +234,7 @@
     },
     "bi": {
       "Word": "bi",
+      "Part of speech": "verb",
       "Definition": "to have",
       "Example": "",
       "Gloss": "have",
@@ -212,6 +242,7 @@
     },
     "di": {
       "Word": "di",
+      "Part of speech": "verb",
       "Definition": "to think",
       "Example": "",
       "Gloss": "think",
@@ -219,6 +250,7 @@
     },
     "gi": {
       "Word": "gi",
+      "Part of speech": "verb",
       "Definition": "to know",
       "Example": "",
       "Gloss": "know",
@@ -226,6 +258,7 @@
     },
     "li": {
       "Word": "li",
+      "Part of speech": "verb",
       "Definition": "to feel",
       "Example": "",
       "Gloss": "feel",
@@ -233,6 +266,7 @@
     },
     "ji": {
       "Word": "ji",
+      "Part of speech": "verb",
       "Definition": "to want",
       "Example": "",
       "Gloss": "want",
@@ -240,6 +274,7 @@
     },
     "wi": {
       "Word": "wi",
+      "Part of speech": "verb",
       "Definition": "to see",
       "Example": "",
       "Gloss": "see",
@@ -247,6 +282,7 @@
     },
     "si": {
       "Word": "si",
+      "Part of speech": "verb",
       "Definition": "to hear",
       "Example": "",
       "Gloss": "hear",
@@ -254,6 +290,7 @@
     },
     "mi": {
       "Word": "mi",
+      "Part of speech": "verb",
       "Definition": "to exist",
       "Example": "",
       "Gloss": "exist",
@@ -261,6 +298,7 @@
     },
     "ni": {
       "Word": "ni",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -268,6 +306,7 @@
     },
     "i": {
       "Word": "i",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -275,6 +314,7 @@
     },
     "po": {
       "Word": "po",
+      "Part of speech": "verb",
       "Definition": "can",
       "Example": "",
       "Gloss": "can",
@@ -282,6 +322,7 @@
     },
     "to": {
       "Word": "to",
+      "Part of speech": "",
       "Definition": "maybe",
       "Example": "",
       "Gloss": "maybe",
@@ -289,6 +330,7 @@
     },
     "ko": {
       "Word": "ko",
+      "Part of speech": "adjective",
       "Definition": "small",
       "Example": "",
       "Gloss": "small",
@@ -296,6 +338,7 @@
     },
     "bo": {
       "Word": "bo",
+      "Part of speech": "adjective",
       "Definition": "big",
       "Example": "",
       "Gloss": "big",
@@ -303,6 +346,7 @@
     },
     "do": {
       "Word": "do",
+      "Part of speech": "noun",
       "Definition": "time",
       "Example": "",
       "Gloss": "time",
@@ -310,6 +354,7 @@
     },
     "go": {
       "Word": "go",
+      "Part of speech": "noun",
       "Definition": "place",
       "Example": "",
       "Gloss": "place",
@@ -317,6 +362,7 @@
     },
     "lo": {
       "Word": "lo",
+      "Part of speech": "preposition",
       "Definition": "before",
       "Example": "",
       "Gloss": "before",
@@ -324,6 +370,7 @@
     },
     "jo": {
       "Word": "jo",
+      "Part of speech": "preposition",
       "Definition": "after",
       "Example": "",
       "Gloss": "after",
@@ -331,6 +378,7 @@
     },
     "wo": {
       "Word": "wo",
+      "Part of speech": "preposition",
       "Definition": "above",
       "Example": "",
       "Gloss": "above",
@@ -338,6 +386,7 @@
     },
     "so": {
       "Word": "so",
+      "Part of speech": "preposition",
       "Definition": "below",
       "Example": "",
       "Gloss": "below",
@@ -345,6 +394,7 @@
     },
     "mo": {
       "Word": "mo",
+      "Part of speech": "verb",
       "Definition": "to love",
       "Example": "",
       "Gloss": "love",
@@ -352,6 +402,7 @@
     },
     "no": {
       "Word": "no",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -359,6 +410,7 @@
     },
     "o": {
       "Word": "o",
+      "Part of speech": "noun",
       "Definition": "thing",
       "Example": "",
       "Gloss": "thing",
@@ -366,6 +418,7 @@
     },
     "pu": {
       "Word": "pu",
+      "Part of speech": "verb",
       "Definition": "to need",
       "Example": "",
       "Gloss": "need",
@@ -373,6 +426,7 @@
     },
     "tu": {
       "Word": "tu",
+      "Part of speech": "verb",
       "Definition": "to change",
       "Example": "",
       "Gloss": "change",
@@ -380,6 +434,7 @@
     },
     "ku": {
       "Word": "ku",
+      "Part of speech": "verb",
       "Definition": "to give, to release, to emit",
       "Example": "",
       "Gloss": "give",
@@ -387,6 +442,7 @@
     },
     "bu": {
       "Word": "bu",
+      "Part of speech": "verb",
       "Definition": "to get, to recieve, to accept",
       "Example": "",
       "Gloss": "get",
@@ -394,6 +450,7 @@
     },
     "du": {
       "Word": "du",
+      "Part of speech": "verb",
       "Definition": "to make",
       "Example": "",
       "Gloss": "make",
@@ -401,6 +458,7 @@
     },
     "gu": {
       "Word": "gu",
+      "Part of speech": "verb",
       "Definition": "to break",
       "Example": "",
       "Gloss": "break",
@@ -408,6 +466,7 @@
     },
     "lu": {
       "Word": "lu",
+      "Part of speech": "verb",
       "Definition": "to touch, to make contact",
       "Example": "",
       "Gloss": "touch",
@@ -415,6 +474,7 @@
     },
     "ju": {
       "Word": "ju",
+      "Part of speech": "noun",
       "Definition": "side",
       "Example": "",
       "Gloss": "side",
@@ -422,6 +482,7 @@
     },
     "wu": {
       "Word": "wu",
+      "Part of speech": "preposition",
       "Definition": "inside",
       "Example": "",
       "Gloss": "inside",
@@ -429,6 +490,7 @@
     },
     "su": {
       "Word": "su",
+      "Part of speech": "verb",
       "Definition": "to try",
       "Example": "",
       "Gloss": "try",
@@ -436,6 +498,7 @@
     },
     "mu": {
       "Word": "mu",
+      "Part of speech": "verb",
       "Definition": "to use",
       "Example": "",
       "Gloss": "use",
@@ -443,6 +506,7 @@
     },
     "nu": {
       "Word": "nu",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -450,6 +514,7 @@
     },
     "u": {
       "Word": "u",
+      "Part of speech": "preposition",
       "Definition": "general preposition, in, at, on",
       "Example": "",
       "Gloss": "",
@@ -457,6 +522,7 @@
     },
     "pan": {
       "Word": "pan",
+      "Part of speech": "noun",
       "Definition": "point",
       "Example": "",
       "Gloss": "point",
@@ -464,6 +530,7 @@
     },
     "tan": {
       "Word": "tan",
+      "Part of speech": "noun",
       "Definition": "line",
       "Example": "",
       "Gloss": "line",
@@ -471,6 +538,7 @@
     },
     "kan": {
       "Word": "kan",
+      "Part of speech": "noun",
       "Definition": "surface",
       "Example": "",
       "Gloss": "surface",
@@ -478,6 +546,7 @@
     },
     "ban": {
       "Word": "ban",
+      "Part of speech": "noun",
       "Definition": "hole",
       "Example": "",
       "Gloss": "hole",
@@ -485,6 +554,7 @@
     },
     "dan": {
       "Word": "dan",
+      "Part of speech": "noun",
       "Definition": "metal",
       "Example": "",
       "Gloss": "metal",
@@ -492,6 +562,7 @@
     },
     "gan": {
       "Word": "gan",
+      "Part of speech": "noun",
       "Definition": "glass",
       "Example": "",
       "Gloss": "glass",
@@ -499,6 +570,7 @@
     },
     "lan": {
       "Word": "lan",
+      "Part of speech": "noun",
       "Definition": "cloth",
       "Example": "",
       "Gloss": "cloth",
@@ -506,6 +578,7 @@
     },
     "jan": {
       "Word": "jan",
+      "Part of speech": "noun",
       "Definition": "word",
       "Example": "",
       "Gloss": "word",
@@ -513,6 +586,7 @@
     },
     "wan": {
       "Word": "wan",
+      "Part of speech": "verb",
       "Definition": "write",
       "Example": "",
       "Gloss": "write",
@@ -520,6 +594,7 @@
     },
     "san": {
       "Word": "san",
+      "Part of speech": "noun",
       "Definition": "colour",
       "Example": "",
       "Gloss": "colour",
@@ -527,6 +602,7 @@
     },
     "man": {
       "Word": "man",
+      "Part of speech": "noun",
       "Definition": "shape",
       "Example": "",
       "Gloss": "shape",
@@ -534,6 +610,7 @@
     },
     "nan": {
       "Word": "nan",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -541,6 +618,7 @@
     },
     "an": {
       "Word": "an",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -548,6 +626,7 @@
     },
     "pen": {
       "Word": "pen",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -555,6 +634,7 @@
     },
     "ten": {
       "Word": "ten",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -562,6 +642,7 @@
     },
     "ken": {
       "Word": "ken",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -569,6 +650,7 @@
     },
     "ben": {
       "Word": "ben",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -576,6 +658,7 @@
     },
     "den": {
       "Word": "den",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -583,6 +666,7 @@
     },
     "gen": {
       "Word": "gen",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -590,6 +674,7 @@
     },
     "len": {
       "Word": "len",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -597,6 +682,7 @@
     },
     "jen": {
       "Word": "jen",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -604,6 +690,7 @@
     },
     "wen": {
       "Word": "wen",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -611,6 +698,7 @@
     },
     "sen": {
       "Word": "sen",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -618,6 +706,7 @@
     },
     "men": {
       "Word": "men",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -625,6 +714,7 @@
     },
     "nen": {
       "Word": "nen",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -632,6 +722,7 @@
     },
     "en": {
       "Word": "en",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -639,6 +730,7 @@
     },
     "pin": {
       "Word": "pin",
+      "Part of speech": "noun",
       "Definition": "sky",
       "Example": "",
       "Gloss": "sky",
@@ -646,6 +738,7 @@
     },
     "tin": {
       "Word": "tin",
+      "Part of speech": "noun",
       "Definition": "ground",
       "Example": "",
       "Gloss": "ground",
@@ -653,6 +746,7 @@
     },
     "kin": {
       "Word": "kin",
+      "Part of speech": "noun",
       "Definition": "sun",
       "Example": "",
       "Gloss": "sun",
@@ -660,6 +754,7 @@
     },
     "bin": {
       "Word": "bin",
+      "Part of speech": "noun",
       "Definition": "moon",
       "Example": "",
       "Gloss": "moon",
@@ -667,6 +762,7 @@
     },
     "din": {
       "Word": "din",
+      "Part of speech": "noun",
       "Definition": "star",
       "Example": "",
       "Gloss": "star",
@@ -674,6 +770,7 @@
     },
     "gin": {
       "Word": "gin",
+      "Part of speech": "noun",
       "Definition": "water",
       "Example": "",
       "Gloss": "water",
@@ -681,6 +778,7 @@
     },
     "lin": {
       "Word": "lin",
+      "Part of speech": "noun",
       "Definition": "fire",
       "Example": "",
       "Gloss": "fire",
@@ -688,6 +786,7 @@
     },
     "jin": {
       "Word": "jin",
+      "Part of speech": "noun",
       "Definition": "wood",
       "Example": "",
       "Gloss": "wood",
@@ -695,6 +794,7 @@
     },
     "win": {
       "Word": "win",
+      "Part of speech": "noun",
       "Definition": "stone",
       "Example": "",
       "Gloss": "stone",
@@ -702,6 +802,7 @@
     },
     "sin": {
       "Word": "sin",
+      "Part of speech": "adjective",
       "Definition": "sweet",
       "Example": "",
       "Gloss": "sweet",
@@ -709,6 +810,7 @@
     },
     "min": {
       "Word": "min",
+      "Part of speech": "verb",
       "Definition": "eat",
       "Example": "",
       "Gloss": "eat",
@@ -716,6 +818,7 @@
     },
     "nin": {
       "Word": "nin",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -723,6 +826,7 @@
     },
     "in": {
       "Word": "in",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -730,6 +834,7 @@
     },
     "pon": {
       "Word": "pon",
+      "Part of speech": "noun",
       "Definition": "house",
       "Example": "",
       "Gloss": "house",
@@ -737,6 +842,7 @@
     },
     "ton": {
       "Word": "ton",
+      "Part of speech": "noun",
       "Definition": "group",
       "Example": "",
       "Gloss": "group",
@@ -744,6 +850,7 @@
     },
     "kon": {
       "Word": "kon",
+      "Part of speech": "verb",
       "Definition": "to fight",
       "Example": "",
       "Gloss": "fight",
@@ -751,6 +858,7 @@
     },
     "bon": {
       "Word": "bon",
+      "Part of speech": "verb",
       "Definition": "to trade",
       "Example": "",
       "Gloss": "trade",
@@ -758,6 +866,7 @@
     },
     "don": {
       "Word": "don",
+      "Part of speech": "verb",
       "Definition": "to control",
       "Example": "",
       "Gloss": "control",
@@ -765,6 +874,7 @@
     },
     "gon": {
       "Word": "gon",
+      "Part of speech": "",
       "Definition": "start",
       "Example": "",
       "Gloss": "start",
@@ -772,6 +882,7 @@
     },
     "lon": {
       "Word": "lon",
+      "Part of speech": "",
       "Definition": "middle",
       "Example": "",
       "Gloss": "middle",
@@ -779,6 +890,7 @@
     },
     "jon": {
       "Word": "jon",
+      "Part of speech": "",
       "Definition": "end",
       "Example": "",
       "Gloss": "end",
@@ -786,6 +898,7 @@
     },
     "won": {
       "Word": "won",
+      "Part of speech": "verb",
       "Definition": "laugh",
       "Example": "",
       "Gloss": "laugh",
@@ -793,6 +906,7 @@
     },
     "son": {
       "Word": "son",
+      "Part of speech": "verb",
       "Definition": "play",
       "Example": "",
       "Gloss": "play",
@@ -800,6 +914,7 @@
     },
     "mon": {
       "Word": "mon",
+      "Part of speech": "verb",
       "Definition": "to have sex with, to fuck",
       "Example": "",
       "Gloss": "sex",
@@ -807,6 +922,7 @@
     },
     "non": {
       "Word": "non",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -814,6 +930,7 @@
     },
     "on": {
       "Word": "on",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -821,6 +938,7 @@
     },
     "pun": {
       "Word": "pun",
+      "Part of speech": "noun",
       "Definition": "creature",
       "Example": "",
       "Gloss": "creature",
@@ -828,6 +946,7 @@
     },
     "tun": {
       "Word": "tun",
+      "Part of speech": "noun",
       "Definition": "plant",
       "Example": "",
       "Gloss": "plant",
@@ -835,6 +954,7 @@
     },
     "kun": {
       "Word": "kun",
+      "Part of speech": "verb",
       "Definition": "to breathe",
       "Example": "",
       "Gloss": "breathe",
@@ -842,6 +962,7 @@
     },
     "bun": {
       "Word": "bun",
+      "Part of speech": "verb",
       "Definition": "to sleep",
       "Example": "",
       "Gloss": "sleep",
@@ -849,6 +970,7 @@
     },
     "dun": {
       "Word": "dun",
+      "Part of speech": "noun",
       "Definition": "man",
       "Example": "",
       "Gloss": "man",
@@ -856,6 +978,7 @@
     },
     "gun": {
       "Word": "gun",
+      "Part of speech": "noun",
       "Definition": "woman",
       "Example": "",
       "Gloss": "woman",
@@ -863,6 +986,7 @@
     },
     "lun": {
       "Word": "lun",
+      "Part of speech": "noun",
       "Definition": "mind",
       "Example": "",
       "Gloss": "mind",
@@ -870,6 +994,7 @@
     },
     "jun": {
       "Word": "jun",
+      "Part of speech": "noun",
       "Definition": "health",
       "Example": "",
       "Gloss": "health",
@@ -877,6 +1002,7 @@
     },
     "wun": {
       "Word": "wun",
+      "Part of speech": "noun",
       "Definition": "child",
       "Example": "",
       "Gloss": "child",
@@ -884,6 +1010,7 @@
     },
     "sun": {
       "Word": "sun",
+      "Part of speech": "noun",
       "Definition": "parent",
       "Example": "",
       "Gloss": "parent",
@@ -891,6 +1018,7 @@
     },
     "mun": {
       "Word": "mun",
+      "Part of speech": "noun",
       "Definition": "family",
       "Example": "",
       "Gloss": "family",
@@ -898,6 +1026,7 @@
     },
     "nun": {
       "Word": "nun",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
@@ -905,6 +1034,7 @@
     },
     "un": {
       "Word": "un",
+      "Part of speech": "",
       "Definition": "",
       "Example": "",
       "Gloss": "",
