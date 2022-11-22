@@ -91,9 +91,9 @@
     "na": {
       "Word": "na",
       "Class": "marker",
-      "Definition": "",
+      "Definition": "emphasis marker",
       "Example": "",
-      "Gloss": "",
+      "Gloss": "emphasis",
       "See Also": ""
     },
     "a": {
@@ -195,9 +195,9 @@
     "ne": {
       "Word": "ne",
       "Class": "marker",
-      "Definition": "",
+      "Definition": "confirmation marker",
       "Example": "",
-      "Gloss": "",
+      "Gloss": "confirmation",
       "See Also": ""
     },
     "e": {
@@ -298,16 +298,16 @@
     },
     "ni": {
       "Word": "ni",
-      "Class": "",
-      "Definition": "",
+      "Class": "marker",
+      "Definition": "quote marker",
       "Example": "",
       "Gloss": "",
       "See Also": ""
     },
     "i": {
       "Word": "i",
-      "Class": "",
-      "Definition": "",
+      "Class": "number",
+      "Definition": "number",
       "Example": "",
       "Gloss": "",
       "See Also": ""
@@ -403,7 +403,7 @@
     "no": {
       "Word": "no",
       "Class": "marker",
-      "Definition": "",
+      "Definition": "quote marker",
       "Example": "",
       "Gloss": "",
       "See Also": ""
